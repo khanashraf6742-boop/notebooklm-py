@@ -11,26 +11,27 @@
 >   5. Non-Applicability *suo-moto* to Central Autonomous Bodies (*DoPPW OM dt. 25.10.2024* & *MoF/CSIR Clarification Feb–Mar 2026*) & Post-March-2024 Rule 10 Default Shift (*DoPPW OM dt. 25.10.2024*);
 >   6. Fixed Medical Allowance (**FMA @ ₹1,000/month**) & Annual Life Certificate for NPS Retirees (*DoPPW OMs dt. 06.12.2023 & 07.02.2025*);
 >   7. *CCS (Payment of Gratuity under NPS) Rules, 2021* [G.S.R. 658(E)], **₹25 Lakh Ceiling w.e.f. 01.01.2024** (*OM dt. 30.05.2024*), **2025 Amendment Rules** [*G.S.R. 258(E) dt. 24.04.2025*], & Military Service Gratuity Cap (*OM dt. 26.12.2025*);
->   8. *CCS (Implementation of the Unified Pension Scheme under NPS) Rules, 2025* [*G.S.R. 599(E) dt. 02.09.2025*, effective 01.04.2025] & OPS Death/Disability/Gratuity OMs (*dt. 18.06.2025*);
->   9. *PFRDA (Exits and Withdrawals under NPS) Amendment Regulations, Dec 2025 & Aug 2026* (**₹8 Lakh** normal/death 100% lump-sum threshold, **₹5 Lakh** premature threshold, continuation up to **age 85**);
->   10. Sister exclusions now codified: *Railway Services (Implementation of NPS) Rules, 2025* [*G.S.R. 735(E) dt. 01.10.2025*] & *All India Services (Implementation of NPS) Rules, 2026* [*G.S.R. 307(E) dt. 22.04.2026*].
+>   8. *CCS (Implementation of the Unified Pension Scheme under NPS) Rules, 2025* [*G.S.R. 599(E) dt. 02.09.2025*, effective 01.04.2025], OPS Death/Disability/Gratuity OMs (*dt. 18.06.2025*), & One-Time UPS-to-NPS Switch + **4% Differential Govt Credit** (*DoPPW OM dt. 29.10.2025*);
+>   9. *PFRDA (Exits and Withdrawals under NPS) Amendment Regulations, Dec 2025 & July 2026* (**₹8 Lakh** normal/death 100% lump-sum threshold, **₹5 Lakh** premature threshold, continuation up to **age 85**, **4× partial withdrawal**, **25% bank lien**);
+>   10. Sister rules & statutory adoptions: *Railway Services (Implementation of NPS) Rules, 2025* [*G.S.R. 735(E) dt. 01.10.2025*], *All India Services (Implementation of NPS) Rules, 2026* [*G.S.R. 307(E) dt. 22.04.2026*], & *EPFO Staff Regulations, 2025*;
+>   11. *Bhavishya* mandatory electronic exit/pension processing, *Bharatiya Sakshya Adhiniyam, 2023* (**Section 111** 7-year presumption for missing employees), *CCS (EOP) Rules, 2023* Categories **A–E**, **Death Gratuity slab rates** on Invalidation/Disablement (*Rule 22 Gratuity Rules / OM dt. 28.10.2022*), **CPAO Revised SOP dt. 19.10.2026** (NPS-AR PPPO to OPS PPO migration), and **DoPPW OMs dt. 27.10.2026**.
 
-**Total Exam Flashcards:** `132`
+**Total Exam Flashcards:** `152`
 
 ## Table of Modules
 
-- [Module 1: Preliminary & Application (Rules 1–2)](#module-1-preliminary-application-rules-1-2) — **7 Cards**
-- [Module 2: Definitions (Rule 3)](#module-2-definitions-rule-3) — **17 Cards**
-- [Module 3: Registration into NPS (Rule 4)](#module-3-registration-into-nps-rule-4) — **8 Cards**
+- [Module 1: Preliminary & Application (Rules 1–2)](#module-1-preliminary-application-rules-1-2) — **9 Cards**
+- [Module 2: Definitions (Rule 3)](#module-2-definitions-rule-3) — **18 Cards**
+- [Module 3: Registration into NPS (Rule 4)](#module-3-registration-into-nps-rule-4) — **9 Cards**
 - [Module 4: Emoluments (Rule 5)](#module-4-emoluments-rule-5) — **8 Cards**
-- [Module 5: Contributions, Interest & Investment (Rules 6–9)](#module-5-contributions,-interest-investment-rules-6-9) — **18 Cards**
-- [Module 6: Death / Disability Option & Family Details (Rule 10)](#module-6-death-/-disability-option-family-details-rule-10) — **8 Cards**
-- [Module 7: Superannuation, VRS & Premature Retirement (Rules 11–13)](#module-7-superannuation,-vrs-premature-retirement-rules-11-13) — **12 Cards**
-- [Module 8: Resignation & Absorption (Rules 14–15)](#module-8-resignation-absorption-rules-14-15) — **12 Cards**
-- [Module 9: Invalidation, Disablement, Penalties & Death (Rules 16–20)](#module-9-invalidation,-disablement,-penalties-death-rules-16-20) — **14 Cards**
-- [Module 10: Exit Processing, Deputation & Residual Rules (Rules 21–30)](#module-10-exit-processing,-deputation-residual-rules-rules-21-30) — **13 Cards**
-- [Module 11: All 8 Statutory Forms (Forms 1 to 4-E)](#module-11-all-8-statutory-forms-forms-1-to-4-e) — **4 Cards**
-- [Module 12: Latest Official OMs, Amendments & Sister NPS Rules (2022–2026)](#module-12-latest-official-oms,-amendments-sister-nps-rules-2022-2026) — **11 Cards**
+- [Module 5: Contributions, Interest & Investment (Rules 6–9)](#module-5-contributions,-interest-investment-rules-6-9) — **20 Cards**
+- [Module 6: Death / Disability Option & Family Details (Rule 10)](#module-6-death-/-disability-option-family-details-rule-10) — **9 Cards**
+- [Module 7: Superannuation, VRS & Premature Retirement (Rules 11–13)](#module-7-superannuation,-vrs-premature-retirement-rules-11-13) — **13 Cards**
+- [Module 8: Resignation & Absorption (Rules 14–15)](#module-8-resignation-absorption-rules-14-15) — **13 Cards**
+- [Module 9: Invalidation, Disablement, Penalties & Death (Rules 16–20)](#module-9-invalidation,-disablement,-penalties-death-rules-16-20) — **16 Cards**
+- [Module 10: Exit Processing, Deputation & Residual Rules (Rules 21–30)](#module-10-exit-processing,-deputation-residual-rules-rules-21-30) — **15 Cards**
+- [Module 11: All 8 Statutory Forms (Forms 1 to 4-E)](#module-11-all-8-statutory-forms-forms-1-to-4-e) — **6 Cards**
+- [Module 12: Latest Official OMs, Amendments & Sister NPS Rules (2022–2026)](#module-12-latest-official-oms,-amendments-sister-nps-rules-2022-2026) — **16 Cards**
 
 ---
 
@@ -146,9 +147,38 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
+### Card #008 — `Rule 2(b) & 2(h) + DoPPW OMs (26.02.2016 / 28.07.2016)` · *[Exception]*
+
+**Q (Front):** What is the statutory exception under Rule 2(b) & Rule 2(h) for Casual Labourers granted 'Temporary Status' before 01.01.2004 (under the DoPT 1993 Scheme) who are regularised in Group 'C' ON OR AFTER 01.01.2004?
+
+**A (Back):**
+
+- **General Exclusion [Rule 2(b)]:** Persons in *casual and daily rated employment* are excluded from CCS (NPS) Rules, 2021.
+- **Pre-2004 Temporary Status Exception [Rule 2(h) + DoPPW OMs dt. 26.02.2016 & 28.07.2016]:** Casual labourers who had been conferred **Temporary Status under the 'Casual Labourers (Grant of Temporary Status and Regularisation) Scheme of Government of India, 1993' on or before 31.12.2003**, and were subsequently **regularised on or after 01.01.2004**, are **EXEMPTED from NPS** and governed by **CCS (Pension) Rules (OPS)** *(with **50%** of Temporary Status service counting towards qualifying service)*!
+- **Contrast:** Casual workers engaged *without* pre-01.01.2004 1993-Scheme Temporary Status who are appointed substantively on or after 01.01.2004 ARE covered by CCS (Implementation of NPS) Rules, 2021.
+
+> **⚠️ Exam Trap / High-Yield Pointer:** High-yield Rule 2(b) vs 2(h) exception: Pre-01.01.2004 Temporary Status Casual Labourers (1993 Scheme) regularised even in 2010/2020 get OPS (with 50% temporary-status service credit), NOT NPS!
+
+---
+
+### Card #009 — `Rule 2 + DoPPW OM 25.10.2024 vs EPFO (Staff & Conditions of Service) Regulations, 2025` · *[Exception]*
+
+**Q (Front):** Explain the two-sided legal rule on Autonomous / Statutory Bodies: Why are Central Autonomous Bodies excluded suo-moto [OM dt. 25.10.2024], yet how were CCS (NPS) Rules, 2021 applied to EPFO employees in May 2025 — and with what UPSC exception?
+
+**A (Back):**
+
+1. **No Automatic (`Suo-Moto`) Application [DoPPW OM dt. 25.10.2024 & MoF Note dt. 23.02.2026]:** CCS (Implementation of NPS) Rules, 2021 are framed under **Art. 309** for Union civil servants and **do NOT apply automatically** to Autonomous/Statutory Bodies.
+2. **Express Statutory Adoption Example — `EPFO (Staff and Conditions of Service) Regulations, 2025` (Notified May 2025):**
+   - Explicitly adopted **CCS (Implementation of NPS) Rules, 2021** and **CCS (Payment of Gratuity under NPS) Rules, 2021** for regular employees of the Central Board (EPFO) appointed on or after 01.01.2004.
+   - **Express Proviso / Exception:** Consultation with **UPSC** (required for Central Govt retirees under the 1st Proviso to Rule 5(1) of CCS Gratuity under NPS Rules before withholding/withdrawing gratuity) **SHALL NOT BE APPLICABLE** to Central Board employees!
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Sharp distinction for UPSC / EPFO / SAS exams: Autonomous bodies never get CCS NPS Rules suo-moto; they apply ONLY where expressly adopted by statutory regulation/MoF approval (with body-specific modifications such as excluding UPSC consultation)!
+
+---
+
 ## Module 2: Definitions (Rule 3)
 
-### Card #008 — `Rule 3(1)(a) & 3(1)(v)` · *[Sub-rule / Clause]*
+### Card #010 — `Rule 3(1)(a) & 3(1)(v)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Distinguish between 'Accredited Bank' [Rule 3(1)(a)] and 'Trustee Bank' [Rule 3(1)(v)] under the CCS (Implementation of NPS) Rules, 2021.
 
@@ -161,7 +191,7 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
-### Card #009 — `Rule 3(1)(b), 3(1)(c) & 3(1)(d)` · *[Sub-rule / Clause]*
+### Card #011 — `Rule 3(1)(b), 3(1)(c) & 3(1)(d)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Define 'Accumulated Pension Corpus' [Rule 3(1)(b)], 'Annuity' [Rule 3(1)(c)], and 'Annuity Service Provider' [Rule 3(1)(d)].
 
@@ -175,7 +205,7 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
-### Card #010 — `Rule 3(1)(e), 3(1)(f), 3(1)(q) & 3(1)(s)` · *[Authority]*
+### Card #012 — `Rule 3(1)(e), 3(1)(f), 3(1)(q) & 3(1)(s)` · *[Authority]*
 
 **Q (Front):** Match each NPS entity in Rule 3(1) with its exact section of the PFRDA Act, 2013 (23 of 2013): (1) Authority [3(1)(e)], (2) Central Recordkeeping Agency [3(1)(f)], (3) National Pension System [3(1)(q)], and (4) Pension Fund [3(1)(s)].
 
@@ -190,7 +220,7 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
-### Card #011 — `Rule 3(1)(g) & 3(1)(h)` · *[Authority]*
+### Card #013 — `Rule 3(1)(g) & 3(1)(h)` · *[Authority]*
 
 **Q (Front):** How do the definitions of 'Drawing and Disbursing Officer' (DDO) [Rule 3(1)(g)] and 'Cheque Drawing and Disbursing Officer' (CDDO) [Rule 3(1)(h)] differ?
 
@@ -203,7 +233,7 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
-### Card #012 — `Rule 3(1)(i)` · *[Sub-rule / Clause]*
+### Card #014 — `Rule 3(1)(i)` · *[Sub-rule / Clause]*
 
 **Q (Front):** How is 'Defence Services' defined in Rule 3(1)(i) of the CCS (Implementation of NPS) Rules, 2021?
 
@@ -220,7 +250,7 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
-### Card #013 — `Rule 3(1)(k) & 3(1)(p)` · *[Sub-rule / Clause]*
+### Card #015 — `Rule 3(1)(k) & 3(1)(p)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Define 'Foreign Service' [Rule 3(1)(k)] and 'Local Fund administered by Government' [Rule 3(1)(p)].
 
@@ -233,7 +263,7 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
-### Card #014 — `Rule 3(1)(m) & 3(1)(n)` · *[Authority]*
+### Card #016 — `Rule 3(1)(m) & 3(1)(n)` · *[Authority]*
 
 **Q (Front):** Contrast 'Head of Department' [Rule 3(1)(m)] and 'Head of Office' [Rule 3(1)(n)] with respect to DFPR, 1978 references and designating authorities.
 
@@ -248,7 +278,7 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
-### Card #015 — `Rule 3(1)(j), (l), (o), (r), (t), (u) & Rule 3(2)` · *[Sub-rule / Clause]*
+### Card #017 — `Rule 3(1)(j), (l), (o), (r), (t), (u) & Rule 3(2)` · *[Sub-rule / Clause]*
 
 **Q (Front):** State the statutory definitions of IPA [3(1)(o)], PAO [3(1)(r)], PRAN [3(1)(t)], Subscriber [3(1)(u)], and the residual interpretation rule in Rule 3(2).
 
@@ -266,7 +296,7 @@ Rule 2 explicitly states these rules **SHALL NOT APPLY** to:
 
 ---
 
-### Card #016 — `Rule 2(a) & G.S.R. 735(E) dt. 01.10.2025` · *[2024–2026 Update]*
+### Card #018 — `Rule 2(a) & G.S.R. 735(E) dt. 01.10.2025` · *[2024–2026 Update]*
 
 **Q (Front):** Why are 'Railway servants' excluded under Rule 2(a) of CCS (Implementation of NPS) Rules, 2021, and which latest statutory rules now govern them?
 
@@ -278,7 +308,7 @@ Railway servants are excluded from CCS Rules under **Rule 2(a)**. Their NPS serv
 
 ---
 
-### Card #017 — `Rule 2(d) & G.S.R. 307(E) dt. 22.04.2026` · *[2024–2026 Update]*
+### Card #019 — `Rule 2(d) & G.S.R. 307(E) dt. 22.04.2026` · *[2024–2026 Update]*
 
 **Q (Front):** Members of All India Services (IAS/IPS/IFoS) are excluded under Rule 2(d) of CCS (Implementation of NPS) Rules, 2021. Which 2026 statutory rules now govern them?
 
@@ -290,7 +320,7 @@ All India Services officers appointed on or after 01.01.2004 are now governed by
 
 ---
 
-### Card #018 — `Rule 2(e)` · *[Exception]*
+### Card #020 — `Rule 2(e)` · *[Exception]*
 
 **Q (Front):** Are Indian citizens or foreign nationals 'locally recruited' for Indian Embassies / Consulates abroad covered by CCS (Implementation of NPS) Rules, 2021?
 
@@ -302,7 +332,7 @@ All India Services officers appointed on or after 01.01.2004 are now governed by
 
 ---
 
-### Card #019 — `Rule 3(1)(a)` · *[Sub-rule / Clause]*
+### Card #021 — `Rule 3(1)(a)` · *[Sub-rule / Clause]*
 
 **Q (Front):** [Clause Drill — Rule 3(1)(a)] Can the Reserve Bank of India itself be an 'Accredited Bank' under Rule 3(1)(a)?
 
@@ -314,7 +344,7 @@ All India Services officers appointed on or after 01.01.2004 are now governed by
 
 ---
 
-### Card #020 — `Rule 3(1)(e)` · *[Sub-rule / Clause]*
+### Card #022 — `Rule 3(1)(e)` · *[Sub-rule / Clause]*
 
 **Q (Front):** [Clause Drill — Rule 3(1)(e)] Does the definition of 'Authority' in Rule 3(1)(e) cover actions of the pre-2013 interim PFRDA?
 
@@ -326,7 +356,7 @@ All India Services officers appointed on or after 01.01.2004 are now governed by
 
 ---
 
-### Card #021 — `Rule 3(1)(g)` · *[Authority]*
+### Card #023 — `Rule 3(1)(g)` · *[Authority]*
 
 **Q (Front):** [Clause Drill — Rule 3(1)(g)] Can a Non-Gazetted officer be designated as a Drawing and Disbursing Officer (DDO) under Rule 3(1)(g)?
 
@@ -338,7 +368,7 @@ All India Services officers appointed on or after 01.01.2004 are now governed by
 
 ---
 
-### Card #022 — `Rule 3(1)(p)` · *[Sub-rule / Clause]*
+### Card #024 — `Rule 3(1)(p)` · *[Sub-rule / Clause]*
 
 **Q (Front):** [Clause Drill — Rule 3(1)(p)] What degree of control over expenditure is required for a fund to qualify as a 'Local Fund administered by Government'?
 
@@ -350,7 +380,7 @@ Under **Rule 3(1)(p)**, the body must come under the control of the Government b
 
 ---
 
-### Card #023 — `Rule 3(2) + Statutory Updates` · *[2024–2026 Update]*
+### Card #025 — `Rule 3(2) + Statutory Updates` · *[2024–2026 Update]*
 
 **Q (Front):** Where CCS (Implementation of NPS) Rules, 2021 cite 'CCS (Pension) Rules, 1972' and 'CCS (Extraordinary Pension) Rules, 1939', which updated rules replace them today?
 
@@ -364,7 +394,7 @@ Under **Rule 3(1)(p)**, the body must come under the control of the Government b
 
 ---
 
-### Card #024 — `Rule 3(1)(f), 3(1)(q) & 3(1)(s)` · *[Sub-rule / Clause]*
+### Card #026 — `Rule 3(1)(f), 3(1)(q) & 3(1)(s)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Quote the exact statutory functions/pillars listed inside Rule 3(1)(f) [CRA], Rule 3(1)(q) [NPS], and Rule 3(1)(s) [Pension Fund].
 
@@ -378,9 +408,33 @@ Under **Rule 3(1)(p)**, the body must come under the control of the Government b
 
 ---
 
+### Card #027 — `Rule 3(1)(a) to 3(1)(v) — Complete 22-Clause Alphabetical Matrix` · *[Sub-rule / Clause]*
+
+**Q (Front):** Give the exact 1-to-1 clause-letter mapping from `(a)` to `(v)` for ALL 22 defined terms in Rule 3(1) of the CCS (Implementation of NPS) Rules, 2021!
+
+**A (Back):**
+
+| Clause | Exact Statutory Term | Clause | Exact Statutory Term |
+|---|---|---|---|
+| **`3(1)(a)`** | **Accredited Bank** *(includes RBI)* | **`3(1)(l)`** | **Government** *(Central Government)* |
+| **`3(1)(b)`** | **Accumulated Pension Corpus** | **`3(1)(m)`** | **Head of Department** *(Sch. I DFPR / President)* |
+| **`3(1)(c)`** | **Annuity** | **`3(1)(n)`** | **Head of Office** *(Rule 14 DFPR Gazetted / Comp. Auth.)* |
+| **`3(1)(d)`** | **Annuity Service Provider** *(IRDAI + PFRDA)* | **`3(1)(o)`** | **Individual Pension Account** *(contract-based)* |
+| **`3(1)(e)`** | **Authority** *(PFRDA Sec. 3(1) + Interim PFRDA)* | **`3(1)(p)`** | **Local Fund administered by Government** |
+| **`3(1)(f)`** | **Central Recordkeeping Agency** *(Sec. 27)* | **`3(1)(q)`** | **National Pension System** *(Sec. 20)* |
+| **`3(1)(g)`** | **Drawing and Disbursing Officer** *(Gazetted)* | **`3(1)(r)`** | **Pay and Accounts Officer** *(includes AG)* |
+| **`3(1)(h)`** | **Cheque Drawing & Disbursing Officer** | **`3(1)(s)`** | **Pension fund** *(Sec. 27(3))* |
+| **`3(1)(i)`** | **Defence Services** *(MoD + DAD civilians)* | **`3(1)(t)`** | **Permanent Retirement Account Number (PRAN)** |
+| **`3(1)(j)`** | **Emoluments** *(as specified in Rule 5)* | **`3(1)(u)`** | **Subscriber** *(Govt servant subscribing to PF)* |
+| **`3(1)(k)`** | **Foreign Service** *(non-Consolidated Fund pay)* | **`3(1)(v)`** | **Trustee Bank** *(Banking Reg. Act, 1949, 10 of 1949)* |
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Watch TWO subtle alphabetical surprises in Rule 3(1): (1) `(g)` DDO comes BEFORE `(h)` CDDO (not strictly alphabetical!); (2) `'Form'` is NOT a defined clause in Rule 3(1) — `(l)` is `'Government'`!
+
+---
+
 ## Module 3: Registration into NPS (Rule 4)
 
-### Card #025 — `Rule 4(1)` · *[Timeline / Deadline]*
+### Card #028 — `Rule 4(1)` · *[Timeline / Deadline]*
 
 **Q (Front):** When and in which forms must a newly appointed Government servant apply for registration into NPS under Rule 4(1)?
 
@@ -396,7 +450,7 @@ Under **Rule 3(1)(p)**, the body must come under the control of the Government b
 
 ---
 
-### Card #026 — `Rule 4(2), 4(3) & 4(4)` · *[Timeline / Deadline]*
+### Card #029 — `Rule 4(2), 4(3) & 4(4)` · *[Timeline / Deadline]*
 
 **Q (Front):** State the exact '3-3-3 Working Days' chain of timelines from joining to CRA submission under Rule 4(2), Rule 4(3), and Rule 4(4).
 
@@ -410,7 +464,7 @@ Under **Rule 3(1)(p)**, the body must come under the control of the Government b
 
 ---
 
-### Card #027 — `Rule 4(5), 4(6), 4(7) & 4(8)` · *[Timeline / Deadline]*
+### Card #030 — `Rule 4(5), 4(6), 4(7) & 4(8)` · *[Timeline / Deadline]*
 
 **Q (Front):** Trace the reverse communication chain once CRA generates PRAN under Rule 4(5)–(8), including the exact working-day deadline for Service Book entry.
 
@@ -425,7 +479,7 @@ Under **Rule 3(1)(p)**, the body must come under the control of the Government b
 
 ---
 
-### Card #028 — `Rule 4(9)` · *[Timeline / Deadline]*
+### Card #031 — `Rule 4(9)` · *[Timeline / Deadline]*
 
 **Q (Front):** What is the outer statutory deadline for crediting the FIRST contribution of a Government servant into his Individual Pension Account under Rule 4(9)?
 
@@ -440,7 +494,7 @@ The **first contribution** of the Government servant shall be credited in his In
 
 ---
 
-### Card #029 — `Rule 4(10) & 4(11)` · *[Exception]*
+### Card #032 — `Rule 4(10) & 4(11)` · *[Exception]*
 
 **Q (Front):** What happens under Rule 4(10) if a newly joined Government servant's NPS registration / PRAN generation is NOT completed before drawal of his first or subsequent month's salary?
 
@@ -454,7 +508,7 @@ The **first contribution** of the Government servant shall be credited in his In
 
 ---
 
-### Card #030 — `Rule 4(4)` · *[Sub-rule / Clause]*
+### Card #033 — `Rule 4(4)` · *[Sub-rule / Clause]*
 
 **Q (Front):** [Sub-rule Drill — Rule 4(4)] Does PAO/CDDO only transmit the NPS registration application online to CRA, or is a physical signed copy also sent?
 
@@ -466,7 +520,7 @@ The **first contribution** of the Government servant shall be credited in his In
 
 ---
 
-### Card #031 — `Rule 4(9) — Numerical Case Study` · *[Exam Trap]*
+### Card #034 — `Rule 4(9) — Numerical Case Study` · *[Exam Trap]*
 
 **Q (Front):** [Case Study — Rule 4(9)] Shri 'A' joins Central Govt service and submits his CSRF on 18th August. By which exact date MUST his first NPS contribution be credited into his IPA?
 
@@ -480,7 +534,7 @@ The **first contribution** of the Government servant shall be credited in his In
 
 ---
 
-### Card #032 — `Rule 4(2) vs Rule 4(8)` · *[Sub-rule / Clause]*
+### Card #035 — `Rule 4(2) vs Rule 4(8)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Compare the Head of Office's record-keeping duties at the START of registration [Rule 4(2)] versus AFTER PRAN allotment [Rule 4(8)].
 
@@ -493,9 +547,25 @@ The **first contribution** of the Government servant shall be credited in his In
 
 ---
 
+### Card #036 — `Rule 4(9) Opening Sentence, Rule 4(10) & Rule 4(11)` · *[Sub-rule / Clause]*
+
+**Q (Front):** [Sub-rule Drill — Rule 4(9)–(11)] Separate the exact statutory mandates of: (a) Opening sentence of Rule 4(9), (b) First & second sentences of Rule 4(10), and (c) Rule 4(11)!
+
+**A (Back):**
+
+- **(a) Joint No-Delay Mandate [Rule 4(9), 1st Sentence]:** Casts an explicit statutory obligation on **ALL authorities referred to in sub-rules (2) to (8)** *(HOO, DDO, PAO, CDDO, and CRA)* to ensure there is **no delay** in registration and crediting of first contribution.
+- **(b) Uncompleted Registration — Salary Release + Delayed Credit [Rule 4(10)]:**
+  - *1st Sentence:* If registration is not completed before drawal of **first month's or any subsequent month's salary**, such salary/salaries **SHALL BE PAID** after **withholding 10% contribution** determined under Rule 6.
+  - *2nd Sentence:* The **withheld contribution + interest payable under Rule 8** (PPF rate) **SHALL BE CREDITED** to the IPA **as soon as** PRAN generation is completed by CRA and communicated to PAO/CDDO.
+- **(c) Rule 10 Cross-Link [Rule 4(11)]:** Action on the **Option Form** submitted at joining under Rule 4(1) shall be taken in accordance with **Rule 10**.
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Notice BOTH withheld principal AND Rule 8 PPF interest are dealt with inside the second sentence of Rule 4(10), while Rule 4(11) exclusively governs processing of the Rule 10 Option Form!
+
+---
+
 ## Module 4: Emoluments (Rule 5)
 
-### Card #033 — `Rule 5(1)` · *[Formula / Rate]*
+### Card #037 — `Rule 5(1)` · *[Formula / Rate]*
 
 **Q (Front):** What exact components constitute 'Emoluments' for mandatory NPS contributions under Rule 5(1)?
 
@@ -510,7 +580,7 @@ For determining mandatory contribution in a calendar month, **'Emoluments'** inc
 
 ---
 
-### Card #034 — `Rule 5(2) & 5(3)` · *[Sub-rule / Clause]*
+### Card #038 — `Rule 5(2) & 5(3)` · *[Sub-rule / Clause]*
 
 **Q (Front):** How are 'Emoluments' calculated when a Subscriber is (a) on paid leave [Rule 5(2)], or (b) absent from duty / on Extraordinary Leave (EOL) during whole or part of a calendar month [Rule 5(3)]?
 
@@ -524,7 +594,7 @@ Both sub-rules operate **subject to the Proviso to Rule 7(1)**:
 
 ---
 
-### Card #035 — `Rule 5(4)` · *[Sub-rule / Clause]*
+### Card #039 — `Rule 5(4)` · *[Sub-rule / Clause]*
 
 **Q (Front):** What constitutes 'Emoluments' for a Subscriber placed under suspension under Rule 5(4)?
 
@@ -536,7 +606,7 @@ Under **Rule 5(4)**, if a Subscriber has been under suspension, the **subsistenc
 
 ---
 
-### Card #036 — `Rule 5(5) vs Rule 5(6)` · *[Exam Trap]*
+### Card #040 — `Rule 5(5) vs Rule 5(6)` · *[Exam Trap]*
 
 **Q (Front):** Contrast how 'Emoluments' are reckoned during (a) Deputation IN India [Rule 5(5)] versus (b) Foreign Service or Deputation OUTSIDE India [Rule 5(6)].
 
@@ -549,7 +619,7 @@ Under **Rule 5(4)**, if a Subscriber has been under suspension, the **subsistenc
 
 ---
 
-### Card #037 — `Rule 5(7)` · *[Sub-rule / Clause]*
+### Card #041 — `Rule 5(7)` · *[Sub-rule / Clause]*
 
 **Q (Front):** How are 'Emoluments' calculated for a retired Subscriber who is re-employed in Government service with pay reduced by pension [Rule 5(7)]?
 
@@ -562,7 +632,7 @@ Under **Rule 5(7)**, where a retired Subscriber is re-employed in Government ser
 
 ---
 
-### Card #038 — `Rule 5(1) & 6(1)/7(1) — Numerical Case Study` · *[Formula / Rate]*
+### Card #042 — `Rule 5(1) & 6(1)/7(1) — Numerical Case Study` · *[Formula / Rate]*
 
 **Q (Front):** [Numerical Case Study — Rules 5(1), 6(1) & 7(1)] A Central Govt Medical Officer draws Basic Pay ₹67,700, NPA ₹13,540 (20%), DA @ 53% on (Pay + NPA) = ₹43,057.20 → ₹43,057, HRA ₹21,935, and Transport Allowance ₹11,016. Compute his exact monthly Employee (10%) and Govt (14%) NPS contributions!
 
@@ -577,7 +647,7 @@ Under **Rule 5(7)**, where a retired Subscriber is re-employed in Government ser
 
 ---
 
-### Card #039 — `Rule 5(5) & 5(6) — Case Study` · *[Exam Trap]*
+### Card #043 — `Rule 5(5) & 5(6) — Case Study` · *[Exam Trap]*
 
 **Q (Front):** [Case Study — Rule 5(5) vs 5(6)] Compare NPS 'Emoluments' of Officer X (on deputation to State Govt of Karnataka drawing higher deputation pay) vs Officer Y (on foreign service in NHAI / a Central PSU drawing higher PSU pay).
 
@@ -590,7 +660,7 @@ Under **Rule 5(7)**, where a retired Subscriber is re-employed in Government ser
 
 ---
 
-### Card #040 — `Rule 5(1) read with FR 9(21)(a)(i)` · *[Exam Trap]*
+### Card #044 — `Rule 5(1) read with FR 9(21)(a)(i)` · *[Exam Trap]*
 
 **Q (Front):** Rule 5(1) defines Basic Pay strictly by reference to 'FR 9(21)(a)(i)'. Which components of FR 9(21)(a) are thereby EXCLUDED from NPS Emoluments?
 
@@ -608,7 +678,7 @@ Under **Rule 5(7)**, where a retired Subscriber is re-employed in Government ser
 
 ## Module 5: Contributions, Interest & Investment (Rules 6–9)
 
-### Card #041 — `Rule 6(1) & Rule 7(1), 7(5)` · *[Formula / Rate]*
+### Card #045 — `Rule 6(1) & Rule 7(1), 7(5)` · *[Formula / Rate]*
 
 **Q (Front):** What are the mandatory monthly contribution percentages of (a) the Subscriber [Rule 6(1)] and (b) the Government [Rule 7(1)], and what is the exact statutory rounding-off rule?
 
@@ -623,7 +693,7 @@ Under **Rule 5(7)**, where a retired Subscriber is re-employed in Government ser
 
 ---
 
-### Card #042 — `Rule 6(2) & Rule 7(3) + 1st & 2nd Provisos` · *[Proviso]*
+### Card #046 — `Rule 6(2) & Rule 7(3) + 1st & 2nd Provisos` · *[Proviso]*
 
 **Q (Front):** Explain the complete three-part legal position on Subscriber and Government NPS contributions during SUSPENSION and upon conclusion of inquiry [Rule 6(2) & Rule 7(3) with Provisos].
 
@@ -641,7 +711,7 @@ Under **Rule 5(7)**, where a retired Subscriber is re-employed in Government ser
 
 ---
 
-### Card #043 — `Rule 6(3), Rule 7(1) Proviso & Rule 7(2)` · *[Proviso]*
+### Card #047 — `Rule 6(3), Rule 7(1) Proviso & Rule 7(2)` · *[Proviso]*
 
 **Q (Front):** State the THREE exceptional kinds of leave under the Proviso to Rule 7(1) where the Government MUST pay 14% contribution on NOTIONAL full emoluments even when leave salary is NIL (EOL) or less than full pay (e.g. HPL)!
 
@@ -661,7 +731,7 @@ AND during such leave **leave salary is NOT payable (EOL) or is payable at LESS 
 
 ---
 
-### Card #044 — `Rule 6(4), 6(5), 6(6), 6(7), 6(9) & Rule 7(4)` · *[Sub-rule / Clause]*
+### Card #048 — `Rule 6(4), 6(5), 6(6), 6(7), 6(9) & Rule 7(4)` · *[Sub-rule / Clause]*
 
 **Q (Front):** What do Rules 6(4)–6(7), 6(9), and 7(4) prescribe regarding NPS contributions during: (a) Deputation in India, (b) Salary Arrears, (c) Probation, (d) Foreign Service / UN / International Orgs, and (e) Voluntary Excess Contribution?
 
@@ -677,7 +747,7 @@ AND during such leave **leave salary is NOT payable (EOL) or is payable at LESS 
 
 ---
 
-### Card #045 — `Rule 6(8), Rule 6(10)(i)–(iii) & Rule 7(6)` · *[Timeline / Deadline]*
+### Card #049 — `Rule 6(8), Rule 6(10)(i)–(iii) & Rule 7(6)` · *[Timeline / Deadline]*
 
 **Q (Front):** Give the exact monthly calendar milestones ('20th — 25th — Last Working Day') for NPS deduction, SCF upload, and bank remittance under Rule 6(8), Rule 6(10), and Rule 7(6), INCLUDING the March Proviso!
 
@@ -687,13 +757,14 @@ AND during such leave **leave salary is NOT payable (EOL) or is payable at LESS 
 2. **By 25th day of each month [Rule 6(10)(i)]:** **PAO / CDDO** prepares & uploads the **Subscription Contribution File (SCF)** and generates a **Transaction ID**.
 3. **By the LAST working day of each month [Rule 6(10)(ii)]:** **PAO / CDDO** remits the contribution to the **Trustee Bank through the Accredited Bank**.
 4. **MARCH EXCEPTION [Proviso to Rule 6(10)(ii)]:** Contribution for the month of **March** shall be remitted to the Trustee Bank through the Accredited Bank on the **FIRST WORKING DAY OF APRIL**!
-5. **Rule 7(6):** Identical remittance timelines & Rule 8 interest on delay apply to the **14% Government contribution**.
+5. **Delayed Credit Compensation [Rule 6(10)(iii)]:** Where there is a delay in crediting Subscriber's contribution to the IPA beyond the prescribed timeline **due to factors not attributable to the Subscriber**, the amount shall be credited along with **interest for the delayed period under Rule 8** (at PPF deposit rate).
+6. **Rule 7(6):** Identical remittance timelines & Rule 8 interest on delay apply to the **14% Government contribution**.
 
 > **⚠️ Exam Trap / High-Yield Pointer:** Memorize the exact triad: 20th (DDO bill to PAO) -> 25th (PAO uploads SCF & generates Transaction ID) -> Last working day (Remittance to Trustee Bank via Accredited Bank), EXCEPT March = 1st working day of April!
 
 ---
 
-### Card #046 — `Rule 8(1) & Proviso to Rule 8(1)` · *[Formula / Rate]*
+### Card #050 — `Rule 8(1) & Proviso to Rule 8(1)` · *[Formula / Rate]*
 
 **Q (Front):** Under Rule 8(1), for which delays is interest payable to the Subscriber, at what rate, within what time limit, and what is the Proviso for the period 01.01.2004 to 31.12.2012?
 
@@ -712,7 +783,7 @@ AND during such leave **leave salary is NOT payable (EOL) or is payable at LESS 
 
 ---
 
-### Card #047 — `Rule 8(2)(i), 8(2)(ii) & 8(2)(iii)` · *[Authority]*
+### Card #051 — `Rule 8(2)(i), 8(2)(ii) & 8(2)(iii)` · *[Authority]*
 
 **Q (Front):** Who fixes responsibility for delayed NPS registration/contributions under Rule 8(2), who bears the pecuniary loss, and which exact Income-tax Act provision governs determination of liability?
 
@@ -726,7 +797,7 @@ AND during such leave **leave salary is NOT payable (EOL) or is payable at LESS 
 
 ---
 
-### Card #048 — `Rule 9` · *[Sub-rule / Clause]*
+### Card #052 — `Rule 9` · *[Sub-rule / Clause]*
 
 **Q (Front):** Who notifies the pension fund(s) and manner of investment of the Accumulated Pension Corpus under Rule 9?
 
@@ -740,7 +811,7 @@ Under **Rule 9**, the Accumulated Pension Corpus in respect of a Subscriber shal
 
 ---
 
-### Card #049 — `Proviso to Rule 7(1) vs Rule 6(3) — Case Study` · *[Proviso]*
+### Card #053 — `Proviso to Rule 7(1) vs Rule 6(3) — Case Study` · *[Proviso]*
 
 **Q (Front):** [Case Study — Rule 7(1) Proviso] A Subscriber takes 3 months' Extraordinary Leave (EOL without pay) for 'private/personal domestic affairs'. What are Employee and Government NPS contributions?
 
@@ -754,7 +825,7 @@ Under **Rule 9**, the Accumulated Pension Corpus in respect of a Subscriber shal
 
 ---
 
-### Card #050 — `Proviso to Rule 7(1) & Rule 5(2) — Half Pay Leave Case Study` · *[Proviso]*
+### Card #054 — `Proviso to Rule 7(1) & Rule 5(2) — Half Pay Leave Case Study` · *[Proviso]*
 
 **Q (Front):** [Case Study — Rule 7(1) Proviso on HPL] Suppose a Subscriber is on Half Pay Leave (HPL, drawing 50% pay) on MEDICAL GROUND. On what basis do the Subscriber (10%) and Government (14%) contribute?
 
@@ -767,7 +838,7 @@ Under **Rule 9**, the Accumulated Pension Corpus in respect of a Subscriber shal
 
 ---
 
-### Card #051 — `Rule 6(2) & Rule 7(3) — Suspension Not Treated as Duty` · *[Exam Trap]*
+### Card #055 — `Rule 6(2) & Rule 7(3) — Suspension Not Treated as Duty` · *[Exam Trap]*
 
 **Q (Front):** [Case Study — Suspension] An employee opted to pay 10% NPS on Subsistence Allowance during suspension (so Govt also paid 14% on Subsistence Allowance). On conclusion of inquiry, a minor/major penalty is imposed and suspension is ordered as 'NOT treated as duty' (restricted to subsistence allowance). Is any recalculation or refund done?
 
@@ -781,7 +852,7 @@ Under **Rule 9**, the Accumulated Pension Corpus in respect of a Subscriber shal
 
 ---
 
-### Card #052 — `Rule 8(1) — Fault Attributable to Subscriber` · *[Exception]*
+### Card #056 — `Rule 8(1) — Fault Attributable to Subscriber` · *[Exception]*
 
 **Q (Front):** If registration in NPS is delayed by 4 months purely because the newly joined Government servant failed/refused to submit the Common Subscriber Registration Form despite reminders, is Government liable to pay Rule 8 interest?
 
@@ -795,7 +866,7 @@ Under **Rule 9**, the Accumulated Pension Corpus in respect of a Subscriber shal
 
 ---
 
-### Card #053 — `Rule 8(1) — 30-Day Window for Interest Credit` · *[Timeline / Deadline]*
+### Card #057 — `Rule 8(1) — 30-Day Window for Interest Credit` · *[Timeline / Deadline]*
 
 **Q (Front):** Delayed NPS contributions for May 2026 (delayed due to DDO/PAO lapse) are finally credited to the Subscriber's IPA on 10th August 2026. By which exact date must the PPF-rate interest be credited?
 
@@ -807,7 +878,7 @@ Under **Rule 9**, the Accumulated Pension Corpus in respect of a Subscriber shal
 
 ---
 
-### Card #054 — `Rule 6(7) & Rule 7(4)` · *[Sub-rule / Clause]*
+### Card #058 — `Rule 6(7) & Rule 7(4)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Name ALL SIX international bodies explicitly enumerated in identical language in both Rule 6(7) and Rule 7(4) for foreign-service/deputation NPS contributions.
 
@@ -826,7 +897,7 @@ Both **Rule 6(7)** and **Rule 7(4)** explicitly enumerate:
 
 ---
 
-### Card #055 — `Proviso to Rule 8(1)` · *[Proviso]*
+### Card #059 — `Proviso to Rule 8(1)` · *[Proviso]*
 
 **Q (Front):** Which TWO exact Government Notifications/OMs are cited in the Proviso to Rule 8(1) for delayed NPS deposit interest covering 1st January, 2004 to 31st December, 2012?
 
@@ -840,7 +911,7 @@ The **Proviso to Rule 8(1)** specifies that for the period **01.01.2004 to 31.12
 
 ---
 
-### Card #056 — `Rule 9 + MoF Notification dt. 31.01.2019 & Oct 2025 LC75/BLC Expansion` · *[2024–2026 Update]*
+### Card #060 — `Rule 9 + MoF Notification dt. 31.01.2019 & Oct 2025 LC75/BLC Expansion` · *[2024–2026 Update]*
 
 **Q (Front):** What investment choices and Pension Fund selection freedoms are now available to Central Government NPS & UPS Subscribers under Rule 9 notifications (including the October 2025 MoF/PFRDA expansion)?
 
@@ -859,7 +930,7 @@ The **Proviso to Rule 8(1)** specifies that for the period **01.01.2004 to 31.12
 
 ---
 
-### Card #057 — `Proviso to Rule 6(10)(ii)` · *[Proviso]*
+### Card #061 — `Proviso to Rule 6(10)(ii)` · *[Proviso]*
 
 **Q (Front):** [Pinpoint Proviso Drill — Rule 6(10)(ii) Proviso] State verbatim the March remittance exception in the Proviso to Rule 6(10)(ii).
 
@@ -873,7 +944,7 @@ The **Proviso to Rule 8(1)** specifies that for the period **01.01.2004 to 31.12
 
 ---
 
-### Card #058 — `1st Proviso to Rule 7(3)` · *[Proviso]*
+### Card #062 — `1st Proviso to Rule 7(3)` · *[Proviso]*
 
 **Q (Front):** [Pinpoint Proviso Drill — 1st Proviso to Rule 7(3)] Does the Government deposit its 14% contribution during suspension if the suspended Subscriber opts NOT to pay his 10% contribution?
 
@@ -886,9 +957,37 @@ The **Proviso to Rule 8(1)** specifies that for the period **01.01.2004 to 31.12
 
 ---
 
+### Card #063 — `Rule 6(9) + PFRDA / CGA Operational Procedure` · *[Sub-rule / Clause]*
+
+**Q (Front):** [Sub-rule Drill — Rule 6(9)] When a Subscriber opts to contribute IN EXCESS of the mandatory 10% under Rule 6(9), does the Government's 14% contribution also increase, and how can excess contributions be made?
+
+**A (Back):**
+
+- **Employer Contribution Stays Fixed at 14%:** **NO!** Even if a Subscriber voluntarily contributes >10% under **Rule 6(9)**, the Government's mandatory contribution under **Rule 7(1)** remains strictly **14% of monthly emoluments** *(zero extra matching by Government)*.
+- **Two Permitted Modes for Excess Self-Contribution:**
+  1. **Direct Voluntary Contribution (`eNPS` / PoP into Tier-I or Tier-II):** Subscriber can deposit any voluntary amount directly into his PRAN (eligible for **₹50,000** additional deduction in Old Tax Regime under **Sec. 80CCD(1B)** of 1961 Act / **Sec. 124(3)** of Income-tax Act, 2025).
+  2. **Salary-Based / Tier-II Tax Saver (`Sec. 80C` / `Sec. 123`):** Central Govt employees can also invest in **NPS Tier-II Tax Saver Scheme** (with **3-year lock-in** and fixed 10–25% equity / debt allocation) within the ₹1.50L Old-Regime limit.
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Classic MCQ trap: 'If a Subscriber opts under Rule 6(9) to contribute 15% of emoluments, Government contributes 15%.' → FALSE! Govt contribution stays strictly 14% under Rule 7(1)!
+
+---
+
+### Card #064 — `Rule 7(2) & Rule 7(5)` · *[Sub-rule / Clause]*
+
+**Q (Front):** [Sub-rule Drill — Rule 7(2) & 7(5)] Quote the exact general bar in Rule 7(2) and explain why Rule 7 repeats the rounding-off clause separately in sub-rule (5) in addition to sub-rule (1)!
+
+**A (Back):**
+
+- **Rule 7(2) [General No-Contribution Bar]:** *'Subject to the proviso to sub-rule (1), **no contribution shall be made by the Government for the period during which the Subscriber is not required to make contribution** in accordance with these rules.'* *(Covers private-affairs EOL, unauthorized absence / dies-non, and suspension where Subscriber opted out under 1st Proviso to Rule 7(3).)*
+- **Rule 7(5) [Universal Next-Higher-Rupee Rounding]:** While Rule 7(1) states rounding-off for regular monthly 14% contributions, **Rule 7(5)** repeats: *'The amount of contribution payable shall be **rounded off to the next higher rupee**'* — ensuring that **notional leave contributions [Proviso to 7(1)]**, **subsistence-allowance contributions [7(3)]**, and **suspension-regularisation arrears [2nd Proviso to 7(3)]** are ALSO rounded up to the next higher rupee!
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Rule 7(2) explicitly opens with 'Subject to the proviso to sub-rule (1)' — because during medical / civil-commotion / useful-higher-studies EOL, the Subscriber pays ₹0 [Rule 6(3)], yet Govt MUST still pay 14%!
+
+---
+
 ## Module 6: Death / Disability Option & Family Details (Rule 10)
 
-### Card #059 — `Rule 10(1) & 10(2)` · *[Sub-rule / Clause]*
+### Card #065 — `Rule 10(1) & 10(2)` · *[Sub-rule / Clause]*
 
 **Q (Front):** What option must every NPS-covered Government servant exercise under Rule 10(1), and how is that option verified, recorded, and transmitted under Rule 10(2)?
 
@@ -906,7 +1005,7 @@ The **Proviso to Rule 8(1)** specifies that for the period **01.01.2004 to 31.12
 
 ---
 
-### Card #060 — `Rule 10(3)(a), (b), (c) & (d)` · *[Sub-rule / Clause]*
+### Card #066 — `Rule 10(3)(a), (b), (c) & (d)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Detail all rules under Rule 10(3)(a)–(d) regarding submission of Family Details in Form 2, subsequent family changes, and certification of a disabled child.
 
@@ -923,7 +1022,7 @@ The **Proviso to Rule 8(1)** specifies that for the period **01.01.2004 to 31.12
 
 ---
 
-### Card #061 — `Rule 10(4)(i)–(iv) & Rule 10(5)` · *[Exam Trap]*
+### Card #067 — `Rule 10(4)(i)–(iv) & Rule 10(5)` · *[Exam Trap]*
 
 **Q (Front):** How many times can a Subscriber revise his Form 1 option under Rule 10(4), and contrast the right of revision on (a) Discharge on Invalidation/Disability [Rule 10(4)(ii)–(iv)] versus (b) Death while in Service [Rule 10(5)]!
 
@@ -940,7 +1039,7 @@ The **Proviso to Rule 8(1)** specifies that for the period **01.01.2004 to 31.12
 
 ---
 
-### Card #062 — `Rule 10(6)(i), (ii) & (iii) + DoPPW OM dt. 25.10.2024` · *[Exception]*
+### Card #068 — `Rule 10(6)(i), (ii) & (iii) + DoPPW OM dt. 25.10.2024` · *[Exception]*
 
 **Q (Front):** What is the statutory 'Default Option' under Rule 10(6)(i), (ii), and (iii) when a Subscriber dies or is invalidated/disabled WITHOUT having exercised any option in Form 1 (and how did the position shift after March 2024)?
 
@@ -958,7 +1057,7 @@ The **Proviso to Rule 8(1)** specifies that for the period **01.01.2004 to 31.12
 
 ---
 
-### Card #063 — `Rule 10(7)` · *[Exception]*
+### Card #069 — `Rule 10(7)` · *[Exception]*
 
 **Q (Front):** What happens under Rule 10(7) if a deceased Subscriber had opted (or defaulted) for OPS / EOP Family Pension, but NO family member is eligible for Family Pension under CCS (Pension) / (EOP) Rules?
 
@@ -973,7 +1072,7 @@ Under **Rule 10(7)** [Infructuous Option Clause]:
 
 ---
 
-### Card #064 — `Rule 10(4)(ii)–(iii) — Case Study` · *[Exam Trap]*
+### Card #070 — `Rule 10(4)(ii)–(iii) — Case Study` · *[Exam Trap]*
 
 **Q (Front):** [Case Study — Rule 10(4)] At joining in 2021, Subscriber 'M' opted for 'NPS' in Form 1. In 2026 (after 5 years' service), 'M' suffers a severe stroke and is retired on invalidation. Can 'M' switch to Old Pension Scheme (Invalid Pension) at the time of invalidation?
 
@@ -987,7 +1086,7 @@ Under **Rule 10(7)** [Infructuous Option Clause]:
 
 ---
 
-### Card #065 — `Rule 10(5) & 10(7) — Combined Case Study` · *[Exam Trap]*
+### Card #071 — `Rule 10(5) & 10(7) — Combined Case Study` · *[Exam Trap]*
 
 **Q (Front):** [Case Study — Rule 10(5) vs 10(7)] Unmarried Subscriber 'R' (orphan, only surviving relative is an independent 30-year-old earning brother) opted for 'CCS (Pension) Rules (OPS)' in Form 1 and dies in service. Under OPS, an earning adult brother is NOT eligible for family pension. What happens?
 
@@ -1001,7 +1100,7 @@ Under **Rule 10(7)** [Infructuous Option Clause]:
 
 ---
 
-### Card #066 — `Rule 10(3)(c) Cross-Reference` · *[Sub-rule / Clause]*
+### Card #072 — `Rule 10(3)(c) Cross-Reference` · *[Sub-rule / Clause]*
 
 **Q (Front):** Which exact rule of the CCS (Pension) Rules is cross-referenced inside Rule 10(3)(c) regarding a lifelong disabled child unable to earn a living?
 
@@ -1013,9 +1112,24 @@ Under **Rule 10(7)** [Infructuous Option Clause]:
 
 ---
 
+### Card #073 — `Rule 10(1) (2nd Sentence) & Rule 10(6)(i), (ii), (iii)` · *[Sub-rule / Clause]*
+
+**Q (Front):** [Sub-clause Drill — Rule 10(1) & 10(6)(i)–(iii)] Distinguish the exact statutory wording of sub-clause `(i)`, sub-clause `(ii)`, and sub-clause `(iii)` of Rule 10(6), plus the transitional mandate in the 2nd sentence of Rule 10(1)!
+
+**A (Back):**
+
+- **Rule 10(1), 2nd Sentence [Pre-2021 Serving Employees]:** Government servants **already in Government service** on 31.03.2021 and covered by NPS *'shall also exercise such option **as soon as possible** after the notification of these rules'*.
+- **Rule 10(6)(i) [Default on DEATH in Service]:** Applies where Subscriber **dies while in service** (`<15 yrs` service OR within `3 yrs` of notification [ended 31.03.2024]) without exercising Form 1 → **Family** granted **Family Pension** under CCS (Pension) Rules or CCS (EOP) Rules as default option.
+- **Rule 10(6)(ii) [Default on INVALIDATION / DISABILITY Discharge]:** Applies where Subscriber is **discharged on invalidation or disability** (`<15 yrs` OR within `3 yrs` of notification) without exercising Form 1 **AND is ALSO not in a position to exercise an option at the time of discharge** → granted **Invalid Pension** or **Disability Pension** as default option.
+- **Rule 10(6)(iii) [Residual Default = NPS]:** **In ALL OTHER CASES** where no option was exercised → claim regulated under **PFRDA (Exits & Withdrawals) Regulations, 2015** as default option for **NPS**!
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Look at the EXTRA condition inside Rule 10(6)(ii) that does NOT exist in 10(6)(i): '...AND IS ALSO NOT IN A POSITION TO EXERCISE AN OPTION AT THE TIME OF DISCHARGE' (because if conscious/capable at discharge, Rule 10(4)(ii) lets him submit a fresh option first)!
+
+---
+
 ## Module 7: Superannuation, VRS & Premature Retirement (Rules 11–13)
 
-### Card #067 — `Rule 11` · *[Sub-rule / Clause]*
+### Card #074 — `Rule 11` · *[Sub-rule / Clause]*
 
 **Q (Front):** What are the NPS exit entitlements of a Subscriber retiring on superannuation (or after extension of service beyond superannuation) under Rule 11?
 
@@ -1029,7 +1143,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #068 — `Rule 12(1) & Proviso (i), (ii), (iii)` · *[Proviso]*
+### Card #075 — `Rule 12(1) & Proviso (i), (ii), (iii)` · *[Proviso]*
 
 **Q (Front):** State the eligibility and notice period for Voluntary Retirement under Rule 12(1), AND list the THREE categories of Subscribers (including scientists/technical experts) to whom Rule 12 DOES NOT APPLY under the Proviso!
 
@@ -1045,7 +1159,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #069 — `Rule 12(1) — Explanation (a), (b) & (c)` · *[Exam Trap]*
+### Card #076 — `Rule 12(1) — Explanation (a), (b) & (c)` · *[Exam Trap]*
 
 **Q (Front):** Under Explanation (a), (b), and (c) to Rule 12(1), how is 'Regular Service' computed for 20-year Voluntary Retirement? Specifically, do Extraordinary Leave (EOL), Study Leave, and prior ad-hoc/contract service count?
 
@@ -1059,7 +1173,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #070 — `Rule 12(2), 12(3)(a)–(b) & 12(4) + Provisos` · *[Timeline / Deadline]*
+### Card #077 — `Rule 12(2), 12(3)(a)–(b) & 12(4) + Provisos` · *[Timeline / Deadline]*
 
 **Q (Front):** Under Rule 12(2)–(4), explain: (a) Deemed acceptance of VRS notice, (b) Curtailment of 3-month notice, and (c) Withdrawal of VRS notice & its mandatory deadline.
 
@@ -1073,7 +1187,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #071 — `Rule 12(5), 12(6) & 12(7)` · *[Exception]*
+### Card #078 — `Rule 12(5), 12(6) & 12(7)` · *[Exception]*
 
 **Q (Front):** Which two retirements are excluded from Rule 12 under sub-rule (5), and does a Subscriber taking 20-year VRS under Rule 12(6) get 'Premature Exit (20:80)' or 'Superannuation Exit (60:40)' benefits?
 
@@ -1090,7 +1204,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #072 — `Rule 13(1)(i)–(ii) + Proviso & Rule 13(2)` · *[Proviso]*
+### Card #079 — `Rule 13(1)(i)–(ii) + Proviso & Rule 13(2)` · *[Proviso]*
 
 **Q (Front):** What are the NPS exit entitlements when a Subscriber retires/is retired prematurely under FR 56 [Rule 13(1)(i)] or opts for DoPT's Surplus Employees SVRS [Rule 13(1)(ii)], including the Proviso?
 
@@ -1107,7 +1221,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #073 — `Rule 12(1) Proviso (iii) — Case Study` · *[Proviso]*
+### Card #080 — `Rule 12(1) Proviso (iii) — Case Study` · *[Proviso]*
 
 **Q (Front):** [Case Study — Rule 12(1) Proviso (iii)] Dr. 'S', a Central Govt scientist with 22 years' regular service, returns to India on 01.03.2026 after a 2-year contract assignment with a foreign Government and immediately submits a 3-month VRS notice on 10.03.2026. Is the VRS notice valid?
 
@@ -1121,7 +1235,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #074 — `Rule 12(2) Proviso & 12(4) Proviso — Timeline Case Study` · *[Timeline / Deadline]*
+### Card #081 — `Rule 12(2) Proviso & 12(4) Proviso — Timeline Case Study` · *[Timeline / Deadline]*
 
 **Q (Front):** [Case Study — Rule 12(2) & 12(4)] An eligible Subscriber gives 3 months' VRS notice on 01.06.2026 (intended retirement: 01.09.2026). (a) What is the last date he can apply to WITHDRAW the notice? (b) What if Appointing Authority passes NO order up to 01.09.2026?
 
@@ -1134,7 +1248,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #075 — `Rule 12(5)(a) & Rule 13(1)(ii)` · *[Sub-rule / Clause]*
+### Card #082 — `Rule 12(5)(a) & Rule 13(1)(ii)` · *[Sub-rule / Clause]*
 
 **Q (Front):** What is the exact DoPT Office Memorandum number and date cited in both Rule 12(5)(a) and Rule 13(1)(ii) for the Special Voluntary Retirement Scheme (SVRS) of surplus employees?
 
@@ -1148,7 +1262,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #076 — `Proviso (i) & (ii) to Rule 12(1)` · *[Proviso]*
+### Card #083 — `Proviso (i) & (ii) to Rule 12(1)` · *[Proviso]*
 
 **Q (Front):** [Pinpoint Proviso Drill — Rule 12(1) Proviso (i) & (ii)] Can an officer currently on an MEA ITEC assignment or posted in the Embassy of India in Tokyo give a 3-month notice for 20-year Voluntary Retirement from abroad?
 
@@ -1162,7 +1276,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #077 — `Rule 12(5) Explanation` · *[Sub-rule / Clause]*
+### Card #084 — `Rule 12(5) Explanation` · *[Sub-rule / Clause]*
 
 **Q (Front):** [Pinpoint Explanation Drill — Rule 12(5) Explanation] How is 'Appointing Authority' defined for the purpose of Voluntary Retirement under Rule 12?
 
@@ -1174,7 +1288,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #078 — `Proviso to Rule 13(1)` · *[Proviso]*
+### Card #085 — `Proviso to Rule 13(1)` · *[Proviso]*
 
 **Q (Front):** [Pinpoint Proviso Drill — Rule 13(1) Proviso] When a surplus employee opts for DoPT's Special Voluntary Retirement Scheme (SVRS), does receiving SVRS Ex-Gratia reduce his NPS corpus benefits?
 
@@ -1187,9 +1301,27 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
+### Card #086 — `Rule 12 vs Rule 13(1)(i) [FR 56(j) & FR 56(k)]` · *[Exception]*
+
+**Q (Front):** Compare ALL THREE premature/voluntary retirement routes available to/against a Central Government NPS Subscriber: (1) Rule 12 VRS, (2) FR 56(k) Voluntary Retirement [via Rule 13(1)(i)], and (3) FR 56(j) Compulsory Retirement in Public Interest [via Rule 13(1)(i)]!
+
+**A (Back):**
+
+| Feature | **Rule 12 VRS** | **FR 56(k) VRS [Rule 13(1)(i)]** | **FR 56(j) Premature Retirement [Rule 13(1)(i)]** |
+|---|---|---|---|
+| **Who Initiates?** | **Subscriber** | **Subscriber** | **Appointing Authority (in Public Interest)** |
+| **Age / Service Eligibility** | **20 years' Regular Service** *(no age floor; ALL sanctioned EOL & Study Leave count!)* | **Group A & B** (entered `<35 yrs`): **Age 50**<br>**All others:** **Age 55** *(no 20-yr floor)* | **Group A & B** (entered `<35 yrs`): **Age 50**<br>**All others:** **Age 55** *(or 30 yrs service under FR 56(l))* |
+| **Notice Requirement** | **≥ 3 months** written notice (curtailable under 12(3)) | **≥ 3 months** written notice | **≥ 3 months** notice **OR 3 months' Pay & Allowances** in lieu |
+| **Refusal / Suspension Rule** | Deemed accepted if not refused before expiry [12(2) Proviso] | Automatic unless **under suspension** or withheld per FR 56(k)(1)(c) | Non-penal administrative review (NOT a CCS CCA penalty!) |
+| **NPS Exit & Form** | **Superannuation Exit (60:40)** · **Form 4-A** | **Superannuation Exit (60:40)** · **Form 4-A** | **Superannuation Exit (60:40)** · **Form 4-A** |
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Look at Form 4-A's verbatim text: Form 4-A explicitly names **Rule 12**, **FR 56(k)**, **FR 56(j)**, and **DoPT SVRS** — ALL FOUR get Superannuation Exit (60:40) under Form 4-A!
+
+---
+
 ## Module 8: Resignation & Absorption (Rules 14–15)
 
-### Card #079 — `Rule 14(1) & 1st, 2nd, 3rd Provisos` · *[Proviso]*
+### Card #087 — `Rule 14(1) & 1st, 2nd, 3rd Provisos` · *[Proviso]*
 
 **Q (Front):** What is the NPS payout rule on ordinary Resignation from Government service under Rule 14(1), and state ALL THREE Provisos to Rule 14(1)!
 
@@ -1204,7 +1336,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #080 — `Rule 14(2) & 1st & 2nd Provisos` · *[Proviso]*
+### Card #088 — `Rule 14(2) & 1st & 2nd Provisos` · *[Proviso]*
 
 **Q (Front):** What happens on 'Technical Resignation' (submitted with proper permission to take up another Central/State Govt appointment) under Rule 14(2) and its TWO Provisos?
 
@@ -1221,7 +1353,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #081 — `Rule 14(3)(a) to (e)` · *[Sub-rule / Clause]*
+### Card #089 — `Rule 14(3)(a) to (e)` · *[Sub-rule / Clause]*
 
 **Q (Front):** List ALL FIVE mandatory statutory conditions under clauses (a) to (e) of Rule 14(3) under which the Appointing Authority may permit a person to withdraw his resignation in the public interest.
 
@@ -1237,7 +1369,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #082 — `Rule 14(4) & Rule 14(5)` · *[Exception]*
+### Card #090 — `Rule 14(4) & Rule 14(5)` · *[Exception]*
 
 **Q (Front):** When MUST a request for withdrawal of resignation be REJECTED under Rule 14(4), and what is the automatic legal effect of an order allowing withdrawal of resignation under Rule 14(5)?
 
@@ -1253,7 +1385,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #083 — `Rule 15(1) + 1st & 2nd Provisos` · *[Proviso]*
+### Card #091 — `Rule 15(1) + 1st & 2nd Provisos` · *[Proviso]*
 
 **Q (Front):** Explain the NPS rules on permitted absorption in a PSU / Autonomous or Statutory Body under Rule 15(1) and its TWO Provisos.
 
@@ -1267,7 +1399,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #084 — `Rule 15(2), 15(3) & Explanations (1) & (2)` · *[Sub-rule / Clause]*
+### Card #092 — `Rule 15(2), 15(3) & Explanations (1) & (2)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Does Rule 15 cover Dept-to-PSU conversions and Joint Sector Undertakings [Rule 15(2)–(3)]? And what is the exact statutory 'Date of Absorption' in all 3 cases under Explanation (1)?
 
@@ -1285,7 +1417,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #085 — `Rule 14(1) 1st & 2nd Provisos — Case Study` · *[Proviso]*
+### Card #093 — `Rule 14(1) 1st & 2nd Provisos — Case Study` · *[Proviso]*
 
 **Q (Front):** [Case Study — Rule 14(1) Provisos] Subscriber 'K' resigns from Central Govt (non-technical resignation) effective 01.04.2026. (a) Can PAO/CRA release his 20% lump sum on 15.05.2026? (b) What if 'K' tragically dies in a road accident on 15.05.2026?
 
@@ -1298,7 +1430,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #086 — `Rule 14(3)(a) & 14(4) — Case Study` · *[Exception]*
+### Card #094 — `Rule 14(3)(a) & 14(4) — Case Study` · *[Exception]*
 
 **Q (Front):** [Case Study — Rule 14(3) & 14(4)] Can withdrawal of accepted resignation within 45 days be permitted by the Appointing Authority if: (Case A) Employee was a Temporary Govt servant? (Case B) Permanent employee resigned to join ONGC (a Central PSU), didn't like the job, and wants to return?
 
@@ -1311,7 +1443,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #087 — `Rules 12(7), 13(2), 14(1), 15(1), 16(12), 17(4), 18(1), 24(4)` · *[Exam Trap]*
+### Card #095 — `Rules 12(7), 13(2), 14(1), 15(1), 16(12), 17(4), 18(1), 24(4)` · *[Exam Trap]*
 
 **Q (Front):** Contrast 'Continuation of IPA / Deferment of Benefits' [Rules 12(7), 13(2), 16(12), 17(4), 24(4)] vs 'Continuing Same PRAN as Non-Government Subscriber' [Provisos to Rules 14(1), 14(2), 15(1), 18(1)].
 
@@ -1324,7 +1456,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #088 — `3rd Proviso to Rule 14(1) & Proviso to Rule 18(1)` · *[Proviso]*
+### Card #096 — `3rd Proviso to Rule 14(1) & Proviso to Rule 18(1)` · *[Proviso]*
 
 **Q (Front):** [Pinpoint Proviso Drill — Rule 14(1) 3rd Proviso & Rule 18(1) Proviso] Must a Subscriber who resigns or is dismissed/removed compulsorily close his PRAN and take the 20:80 premature exit, or can he keep his PRAN alive?
 
@@ -1337,7 +1469,7 @@ Under **Rule 11**, a Subscriber who retires on attaining the age of superannuati
 
 ---
 
-### Card #089 — `1st & 2nd Provisos to Rule 14(2)` · *[Proviso]*
+### Card #097 — `1st & 2nd Provisos to Rule 14(2)` · *[Proviso]*
 
 **Q (Front):** [Pinpoint Proviso Drill — Rule 14(2) Provisos] Officer 'Z' resigns with proper permission (Technical Resignation) from a Central Ministry to join a State Government Department where OPS / a non-NPS scheme is in force. What two options does 'Z' have under the 1st and 2nd Provisos to Rule 14(2)?
 
@@ -1351,7 +1483,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #090 — `Rule 15 — Explanation (1)(i), (ii), (iii) & Explanation (2)` · *[Sub-rule / Clause]*
+### Card #098 — `Rule 15 — Explanation (1)(i), (ii), (iii) & Explanation (2)` · *[Sub-rule / Clause]*
 
 **Q (Front):** [Pinpoint Explanation Drill — Rule 15] If Officer 'Q' goes to a Central PSU on foreign service (deputation) on 01.01.2024 and his unqualified resignation for permanent absorption is accepted by Govt w.e.f. 01.07.2026, what is his statutory 'Date of Absorption'?
 
@@ -1364,9 +1496,25 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
+### Card #099 — `Rule 14(2) + DoPT Consolidated Technical Resignation Guidelines` · *[Exception]*
+
+**Q (Front):** Under Rule 14(2) read with DoPT instructions, does 'Technical Resignation' cover an application sent BEFORE joining the first Government post, and how long is Lien retained?
+
+**A (Back):**
+
+- **Pre-Joining Application Exception:** **YES!** If a candidate had applied for another Government post **before** joining his first Government post, and **intimated that pending application at the time of joining**, resignation subsequently tendered to join that post **IS treated as Technical Resignation** (*'with proper permission'* under Rule 14(2))!
+- **Consequences under Rule 14(2):**
+  1. Continues with the **SAME PRAN** (if new Central/State Govt dept has NPS) and is **deemed an NPS member from initial joining date**;
+  2. Past regular service counts towards **20-year VRS [Rule 12(1) Expl. (a)]** AND **Retirement/Death Gratuity** *(without requiring transfer of NPS corpus)*;
+  3. **Lien Retention (Permanent Employees):** Retained in parent post for **2 years** (extendable up to **3 years** in exceptional cases where employee could not be confirmed in new post).
+
+> **⚠️ Exam Trap / High-Yield Pointer:** If an employee applied AFTER joining Govt service WITHOUT forwarding through proper channel / obtaining NOC, resignation is NON-TECHNICAL [Rule 14(1)] — forfeiting past service for gratuity & triggering 90-day 20:80 premature exit!
+
+---
+
 ## Module 9: Invalidation, Disablement, Penalties & Death (Rules 16–20)
 
-### Card #091 — `Rule 16(1), 16(2) & Provisos` · *[Proviso]*
+### Card #100 — `Rule 16(1), 16(2) & Provisos` · *[Proviso]*
 
 **Q (Front):** How does Section 20 of the Rights of Persons with Disabilities (RPwD) Act, 2016 protect a disabled Subscriber under Rule 16(1)–(2), and who may apply for invalidation if the Subscriber himself is incapacitated?
 
@@ -1380,7 +1528,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #092 — `Rule 16(3)(a)–(b), 16(4), 16(5), 16(6), 16(7) & 16(8)` · *[Timeline / Deadline]*
+### Card #101 — `Rule 16(3)(a)–(b), 16(4), 16(5), 16(6), 16(7) & 16(8)` · *[Timeline / Deadline]*
 
 **Q (Front):** State the exact timelines, ₹54,000 pay threshold for Medical Authorities, Lady Doctor rule, Form number, and lower-post rule for medical examination under Rule 16(3)–(8)!
 
@@ -1390,6 +1538,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 - **Competent Medical Authority [Rule 16(3)(a)–(b)]:**
   - **(a) Medical Board:** For **ALL Gazetted** Government servants, AND **Non-Gazetted** Government servants whose pay [under FR 9(21)] **EXCEEDS ₹54,000 per mensem**!
   - **(b) Civil Surgeon / District Medical Officer / equivalent MO:** In all other cases *(Non-Gazetted with pay ≤ ₹54,000 p.m.)*.
+- **Rule 16(4) [Duty to Appear & Two-Fold Medical Test]:** Subscriber **shall appear** before the concerned medical authority on the **date fixed by that authority**; medical authority examines him to ascertain **(i)** whether or not he is **fit for further service**, OR **(ii)** whether he is **fit for further service of less laborious character** than that which he had been doing.
 - **Rule 16(5):** **No medical certificate** of incapacity may be granted unless requested by HOO/HOD.
 - **Rule 16(6):** A **LADY DOCTOR shall be included** as a member of the Medical Board when a **woman candidate** is examined.
 - **Rule 16(7):** Medical Certificate is issued in **Form 3**.
@@ -1399,7 +1548,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #093 — `Rule 16(9)–(12) & Rule 17(1)–(4)` · *[Formula / Rate]*
+### Card #102 — `Rule 16(9)–(12) & Rule 17(1)–(4)` · *[Formula / Rate]*
 
 **Q (Front):** What happens to the NPS Individual Pension Account (Employee share vs Government share) when a Subscriber retires on Invalidation [Rule 16(9)–(12)] or is boarded out on Disablement attributable to service [Rule 17(1)–(4)]?
 
@@ -1414,7 +1563,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #094 — `Rule 18(1) + Proviso & Rule 18(2)` · *[Exception]*
+### Card #103 — `Rule 18(1) + Proviso & Rule 18(2)` · *[Exception]*
 
 **Q (Front):** If an NPS Subscriber is DISMISSED, REMOVED, or COMPULSORILY RETIRED AS A PENALTY under Rule 18, is his NPS Accumulated Pension Corpus forfeited like pension under CCS (Pension) Rules?
 
@@ -1429,7 +1578,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #095 — `Rule 19(1) & Rule 19(2)` · *[Exception]*
+### Card #104 — `Rule 19(1) & Rule 19(2)` · *[Exception]*
 
 **Q (Front):** Can a retiring Subscriber's NPS Accumulated Pension Corpus (60% lump sum or 40% annuity) be withheld due to Departmental or Judicial Proceedings pending on retirement under Rule 19?
 
@@ -1445,7 +1594,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #096 — `Rule 20(1)(a)–(b) + Proviso, 20(2) & 20(3)` · *[Proviso]*
+### Card #105 — `Rule 20(1)(a)–(b) + Proviso, 20(2) & 20(3)` · *[Proviso]*
 
 **Q (Front):** Explain ALL provisions of Rule 20 on Death of a Subscriber (including death of a retired Invalid/Disability Pensioner under clause (b)), the EOP Proviso, and who receives the Employee's NPS share under Rule 20(2)!
 
@@ -1465,7 +1614,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #097 — `Rule 16(3)(a) vs (b) — Pay Threshold Drill` · *[Exam Trap]*
+### Card #106 — `Rule 16(3)(a) vs (b) — Pay Threshold Drill` · *[Exam Trap]*
 
 **Q (Front):** [Threshold Drill — Rule 16(3)] Specify which exact Medical Authority must examine: (1) A Gazetted Officer drawing Basic Pay ₹47,600 (Level 8); (2) A Non-Gazetted Officer drawing Basic Pay ₹54,000; (3) A Non-Gazetted Officer drawing Basic Pay ₹55,200.
 
@@ -1479,7 +1628,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #098 — `Rule 16(5)` · *[Exception]*
+### Card #107 — `Rule 16(5)` · *[Exception]*
 
 **Q (Front):** [Sub-rule Drill — Rule 16(5)] If an employee privately obtains an incapacity certificate from a Government Hospital Medical Board without prior reference from his Office, is it valid under Rule 16(5)?
 
@@ -1491,7 +1640,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #099 — `Rule 18 vs Rule 19 vs Rule 13 — Master Penalty Matrix` · *[Exam Trap]*
+### Card #108 — `Rule 18 vs Rule 19 vs Rule 13 — Master Penalty Matrix` · *[Exam Trap]*
 
 **Q (Front):** Compare the exact NPS Corpus treatment AND Covering Letter Form across FOUR tricky cases: (1) Premature Retirement under FR 56(j), (2) Compulsory Retirement as Penalty [CCS CCA Rule 11], (3) Dismissal / Removal, and (4) Superannuation with Major Vigilance / Criminal Trial Pending!
 
@@ -1508,7 +1657,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #100 — `Rule 20(1)(b)` · *[Sub-rule / Clause]*
+### Card #109 — `Rule 20(1)(b)` · *[Sub-rule / Clause]*
 
 **Q (Front):** [Sub-rule Drill — Rule 20(1)(b)] Subscriber 'P' retired on Invalid Pension under Rule 16(9) (having surrendered Govt NPS share and taken own NPS share in lump sum). Five years AFTER retirement, 'P' dies. Does his widow get OPS Family Pension?
 
@@ -1520,7 +1669,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #101 — `Rule 16(3) Concluding Paragraph` · *[Sub-rule / Clause]*
+### Card #110 — `Rule 16(3) Concluding Paragraph` · *[Sub-rule / Clause]*
 
 **Q (Front):** Under the concluding paragraph of Rule 16(3), what specific document/information MUST the HOO/HOD supply to the Medical Authority, and to whom must the letter be endorsed?
 
@@ -1533,7 +1682,7 @@ Where employees of the new Department or State Government are **NOT covered by N
 
 ---
 
-### Card #102 — `Rule 16(4), 16(7) & 16(8)` · *[Sub-rule / Clause]*
+### Card #111 — `Rule 16(4), 16(7) & 16(8)` · *[Sub-rule / Clause]*
 
 **Q (Front):** What happens under Rule 16(8) if the Medical Authority certifies in Form 3 that the Subscriber is 'fit for further service of less laborious character', EXCEPT the Subscriber is NOT willing to accept a lower post?
 
@@ -1548,7 +1697,7 @@ Read **Rule 16(8)** word-for-word: *'If the Subscriber, has been found to be fit
 
 ---
 
-### Card #103 — `Proviso to Rule 16(1) & 2nd Proviso to Rule 16(2)` · *[Proviso]*
+### Card #112 — `Proviso to Rule 16(1) & 2nd Proviso to Rule 16(2)` · *[Proviso]*
 
 **Q (Front):** [Pinpoint Proviso Drill — Rule 16(1) & 16(2)] What two statutory safeguards protect a Government servant who acquires a benchmark disability in service before any invalidation request can be processed?
 
@@ -1561,7 +1710,7 @@ Read **Rule 16(8)** word-for-word: *'If the Subscriber, has been found to be fit
 
 ---
 
-### Card #104 — `Proviso to Rule 20(1)` · *[Proviso]*
+### Card #113 — `Proviso to Rule 20(1)` · *[Proviso]*
 
 **Q (Front):** [Pinpoint Proviso Drill — Rule 20(1) Proviso] When a Subscriber (with OPS/EOP option or default) dies in service due to an accident/attack ATTRIBUTABLE to Government service, which rules govern disbursement under the Proviso to Rule 20(1)?
 
@@ -1573,9 +1722,41 @@ Under the **Proviso to Rule 20(1)**, if the death is **attributable to Governmen
 
 ---
 
+### Card #114 — `Rules 16(11) & 17(3) + Rule 22 of CCS (Gratuity under NPS) Rules, 2021 & OM dt. 28.10.2022` · *[Exception]*
+
+**Q (Front):** CRITICAL CROSS-RULE EXCEPTION: When an NPS Subscriber with ONLY 3 years of service is discharged on Invalidation [Rule 16] or Disablement [Rule 17] (opting for NPS corpus benefits), does he get Retirement Gratuity (which needs 5 years) or DEATH GRATUITY rates?
+
+**A (Back):**
+
+**He gets Gratuity at DEATH GRATUITY RATES (NO 5-year minimum qualifying service barrier!)**
+- Explicitly clarified in **Para 15 of DoPPW O.M. No. 57/03/2022-P&PW(B)/8361(1) dated 28.10.2022** read with **Rule 22 of CCS (Payment of Gratuity under NPS) Rules, 2021**:
+- Where a Central Govt servant covered under NPS is discharged from service on **invalidation [Rule 16]** or **disablement [Rule 17]**, in addition to his NPS corpus / OPS pension entitlement, gratuity is payable **at DEATH GRATUITY slab rates** (`<1 yr = 2×`; `1 to <5 yrs = 6×`; `5 to <11 yrs = 12×`; `11 to <20 yrs = 20×`; `≥20 yrs = ½ emoluments per 6-monthly period up to 33×`, subject to **₹25 Lakh** cap)!
+- Hence with 3 years' service (`1 to <5 yrs` slab), he receives **6 times monthly emoluments** as gratuity!
+
+> **⚠️ Exam Trap / High-Yield Pointer:** One of the highest-yield cross-rule exceptions in Departmental Exams: Normal retirement/VRS needs 5 years for Retirement Gratuity, whereas Invalidation/Disablement discharge gets DEATH GRATUITY slabs from Day 1!
+
+---
+
+### Card #115 — `Rule 17 & Rule 20(1) Proviso + CCS (Extraordinary Pension) Rules, 2023 [G.S.R. 63(E)]` · *[2024–2026 Update]*
+
+**Q (Front):** When an NPS Subscriber's Rule 10 option/default is for EOP on service-attributable Disablement [Rule 17] or Death [Rule 20(1) Proviso], how do Categories A, B, C, D & E of the CCS (Extraordinary Pension) Rules, 2023 operate?
+
+**A (Back):**
+
+Notified vide **G.S.R. 63(E) dated 30.01.2023** (explicitly incorporating **Rule 10 of CCS NPS Rules, 2021** in its Application Proviso):
+- **Category A:** Death/disability **NOT attributable to nor aggravated by** Govt service *(governed by ordinary CCS Pension Rules Invalid/Family Pension under Rules 16 / 20(1)(a), NOT EOP)*.
+- **Category B:** Death/disability **attributable to OR aggravated by** Govt service *(e.g., occupational disease / duty accident)* → EOP Family Pension (`60%` of basic pay) / Disability Pension (`service element + disability element for 100% disability = 30%`, proportionate down to 20%).
+- **Category C:** Accidents while performing **strictly official duty** (e.g., official travel/air/rail/sea mishap, natural calamities on duty).
+- **Category D:** Acts of violence by **terrorists, anti-social elements, extremists, border skirmishes, sea piracy** → Liberalised Family/Disability Pension (`80%` family pension!).
+- **Category E:** Operations specially notified by Govt, **war / war-like operations, enemy action, evacuation of Indian nationals abroad** → Highest Liberalised Award (**`100%` of last pay** as Liberalised Family Pension!) + **Constant Attendant Allowance** where 100% disabled!
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Remember: Whenever EOP benefits under Categories B/C/D/E are disbursed via Rule 17(1) or Rule 20(1) Proviso, **Rule 17(2) / Rule 20(2)** still returns **100% of Employee's own NPS contribution + returns** in lump sum while transferring only Govt share + returns to Govt Account!
+
+---
+
 ## Module 10: Exit Processing, Deputation & Residual Rules (Rules 21–30)
 
-### Card #105 — `Rule 21(1), (2), (3) & (4)` · *[Timeline / Deadline]*
+### Card #116 — `Rule 21(1), (2), (3) & (4)` · *[Timeline / Deadline]*
 
 **Q (Front):** Detail the quarterly retirement list calendar, responsible authority, look-ahead window, PAO submission dates, and non-superannuation intimations under Rule 21(1)–(4).
 
@@ -1590,7 +1771,7 @@ Under the **Proviso to Rule 20(1)**, if the death is **attributable to Governmen
 
 ---
 
-### Card #106 — `Rule 22(1) & 22(2)` · *[Timeline / Deadline]*
+### Card #117 — `Rule 22(1) & 22(2)` · *[Timeline / Deadline]*
 
 **Q (Front):** When must the Head of Office write to the Directorate of Estates for a 'No Demand Certificate' (NDC), and which exact period does that NDC cover under Rule 22(1)?
 
@@ -1604,7 +1785,7 @@ Under the **Proviso to Rule 20(1)**, if the death is **attributable to Governmen
 
 ---
 
-### Card #107 — `Rule 23(1), (2) & (3)` · *[Timeline / Deadline]*
+### Card #118 — `Rule 23(1), (2) & (3)` · *[Timeline / Deadline]*
 
 **Q (Front):** State the exact claim submission rules and timelines for the Subscriber and CRA Claim ID generation under Rule 23(1)–(3)!
 
@@ -1623,7 +1804,7 @@ Under the **Proviso to Rule 20(1)**, if the death is **attributable to Governmen
 
 ---
 
-### Card #108 — `Rule 24(1), (2), (3) & (4)` · *[Timeline / Deadline]*
+### Card #119 — `Rule 24(1), (2), (3) & (4)` · *[Timeline / Deadline]*
 
 **Q (Front):** Give the complete countdown timeline ('4 Months — 1 Month — 15 Days' & '1 Month After') for HOO, PAO, and Subscriber continuation/deferment option under Rule 24(1)–(4)!
 
@@ -1640,7 +1821,7 @@ Under the **Proviso to Rule 20(1)**, if the death is **attributable to Governmen
 
 ---
 
-### Card #109 — `Rule 25(1) vs Rule 25(2)` · *[Exam Trap]*
+### Card #120 — `Rule 25(1) vs Rule 25(2)` · *[Exam Trap]*
 
 **Q (Front):** Which authority processes and authorises NPS retirement benefits if a Subscriber retires WHILE ON DEPUTATION to: (a) another Central Government Department [Rule 25(1)] vs (b) a State Government or Foreign Service [Rule 25(2)]?
 
@@ -1653,7 +1834,7 @@ Under the **Proviso to Rule 20(1)**, if the death is **attributable to Governmen
 
 ---
 
-### Card #110 — `Rule 26(a) & (b)` · *[Timeline / Deadline]*
+### Card #121 — `Rule 26(a) & (b)` · *[Timeline / Deadline]*
 
 **Q (Front):** How and within what exact deadline must the date of retirement of a Gazetted vs Non-Gazetted Subscriber be notified under Rule 26?
 
@@ -1669,7 +1850,7 @@ A copy of every such notification or office order shall be **forwarded immediate
 
 ---
 
-### Card #111 — `Rule 27, Rule 28 + Proviso, Rule 29(1)–(2) & Rule 30` · *[Authority]*
+### Card #122 — `Rule 27, Rule 28 + Proviso, Rule 29(1)–(2) & Rule 30` · *[Authority]*
 
 **Q (Front):** State the exact legal provisions on Interpretation [Rule 27], Power to Relax & its Proviso [Rule 28], Residual Matters [Rule 29], and Repeal & Saving [Rule 30].
 
@@ -1685,7 +1866,7 @@ A copy of every such notification or office order shall be **forwarded immediate
 
 ---
 
-### Card #112 — `Rules 4, 6, 8, 12, 14, 16, 21, 22, 23, 24, 26 — Master Numerical Timelines` · *[Timeline / Deadline]*
+### Card #123 — `Rules 4, 6, 8, 12, 14, 16, 21, 22, 23, 24, 26 — Master Numerical Timelines` · *[Timeline / Deadline]*
 
 **Q (Front):** [Master Revision Card] Rapid-fire recall of ALL 18 statutory numerical time limits across Rules 4 to 26 of CCS (Implementation of NPS) Rules, 2021!
 
@@ -1714,7 +1895,7 @@ A copy of every such notification or office order shall be **forwarded immediate
 
 ---
 
-### Card #113 — `Rule 24(2) vs 24(3) vs 24(4)` · *[Timeline / Deadline]*
+### Card #124 — `Rule 24(2) vs 24(3) vs 24(4)` · *[Timeline / Deadline]*
 
 **Q (Front):** [Distinction Drill — Rule 24] If a Subscriber is Dismissed or Voluntarily Retires on 30th September, what is the outer deadline for HOO to forward withdrawal papers to PAO under Rule 24(2)?
 
@@ -1729,7 +1910,7 @@ A copy of every such notification or office order shall be **forwarded immediate
 
 ---
 
-### Card #114 — `Rule 28 vs Rule 27` · *[Proviso]*
+### Card #125 — `Rule 28 vs Rule 27` · *[Proviso]*
 
 **Q (Front):** Can an administrative Ministry (say, Ministry of Home Affairs or Ministry of Mines) relax a requirement of the CCS (Implementation of NPS) Rules, 2021 on its own in a case of undue hardship?
 
@@ -1743,7 +1924,7 @@ A copy of every such notification or office order shall be **forwarded immediate
 
 ---
 
-### Card #115 — `Rule 29(1)` · *[Sub-rule / Clause]*
+### Card #126 — `Rule 29(1)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Under Rule 29(1), if a related service issue is NOT specifically covered in the CCS (Implementation of NPS) Rules, 2021, which rules/orders govern its decision and subject to what rider?
 
@@ -1760,7 +1941,7 @@ Under **Rule 29(1)**, any related issue not specifically covered in these rules 
 
 ---
 
-### Card #116 — `Rule 30` · *[Sub-rule / Clause]*
+### Card #127 — `Rule 30` · *[Sub-rule / Clause]*
 
 **Q (Front):** Did the CCS (Implementation of NPS) Rules, 2021 repeal ALL prior Office Memoranda on NPS, or only to a specific extent under Rule 30?
 
@@ -1774,7 +1955,7 @@ Under **Rule 30 (Repeal and Saving)**:
 
 ---
 
-### Card #117 — `Rule 23(2) — Online Mode Print-Out Requirement` · *[Exam Trap]*
+### Card #128 — `Rule 23(2) — Online Mode Print-Out Requirement` · *[Exam Trap]*
 
 **Q (Front):** If a retiring Subscriber submits his NPS superannuation withdrawal claim ONLINE on the CRA portal under Rule 23(2), does he still need to submit anything physically to the Head of Office?
 
@@ -1787,9 +1968,42 @@ Concluding sentence of **Rule 23(2):** *'Where the Subscriber has submitted the 
 
 ---
 
+### Card #129 — `Rules 20–24 + Bhavishya Portal Mandates & Bharatiya Sakshya Adhiniyam, 2023 (Sec. 111)` · *[2024–2026 Update]*
+
+**Q (Front):** How do (a) the mandatory 'Bhavishya' Online Pension/Exit Portal and (b) Section 111 of the Bharatiya Sakshya Adhiniyam (BSA), 2023 apply to Central Government NPS Subscribers?
+
+**A (Back):**
+
+**(a) `Bhavishya` Online Portal & `e-HRMS 2.0 / CRA` Integration [Rules 20–24]:**
+- DoPPW mandated **100% electronic processing through `Bhavishya`** (integrated with **PFMS**, **e-HRMS 2.0**, **CPAO**, and **CRA**) for Central Govt retirees.
+- Where an NPS subscriber/family avails **OPS Invalid/Disability/Family Pension** [Rules 16(9), 17(1), 20(1)] or **Retirement/Death Gratuity** [Rule 26 / Gratuity Rules], claims are processed online on **Bhavishya** using **integrated Form 6-A** (introduced 16.07.2024) and **e-PPO** is pushed to **DigiLocker**.
+
+**(b) `Bharatiya Sakshya Adhiniyam (BSA), 2023` — Section 111 *(w.e.f. 01.07.2024, replacing Sec. 108 of Indian Evidence Act, 1872)*:**
+- Governs the **7-year statutory presumption of death** for a **missing NPS employee**.
+- **Interim Relief (after 6 months from Police FIR):** OPS Family Pension + Retirement Gratuity [DoPPW OM 28.04.2022] OR **20% interim NPS corpus** [PFRDA 16.12.2025 Amendment].
+- **Final Settlement (after BSA Sec. 111 7-year presumption / court declaration):** Balance **Death Gratuity minus Retirement Gratuity** (under OPS/Gratuity Rules) OR **remaining 80% NPS corpus** (under PFRDA Exit Regulations) is released!
+
+> **⚠️ Exam Trap / High-Yield Pointer:** 2025–2026 Law Change Alert: Never cite 'Section 108 of Indian Evidence Act, 1872' without noting its replacement from **01.07.2024** by **Section 111 of the Bharatiya Sakshya Adhiniyam, 2023** (explicitly referenced in PFRDA's 16.12.2025 Exit Amendment Regulations)!
+
+---
+
+### Card #130 — `Rule 29(1) & Rule 5(7) + CCS (Pension) Rule 9 / DoPT Commercial Employment Orders` · *[Exception]*
+
+**Q (Front):** Does a retired Group 'A' NPS Subscriber require Government permission to take up commercial employment within 1 year of retirement, and how does Rule 29(1) govern unprovided post-retirement service rules?
+
+**A (Back):**
+
+- **Residual Incorporation [Rule 29(1)]:** Related service issues not specifically covered in CCS (NPS) Rules, 2021 are decided per **CCS (Pension) Rules, FR, SR, or general/special Government orders** *(so long as not repugnant/inconsistent)*.
+- **Commercial Employment within 1 Year (Group 'A' Retirees):** While NPS annuity itself cannot be forfeited under CCS Pension Rule 9 (since corpus is governed by PFRDA Act), **DoPT / CCS Conduct & service instructions** requiring prior Government sanction for Group 'A' officers accepting commercial employment within **1 year** of retirement (and non-disclosure / cooling-off undertakings) apply as service conditions *(except where permitted during LPR to take employment under a foreign Govt)*.
+- **Re-Employment in Central Govt [Rule 5(7) + Rule 4A Gratuity Rules]:** Deducted pension element is added back to pay for **NPS Emoluments [Rule 5(7)]**, and **no separate second gratuity** is admissible for the re-employment spell **[Rule 4A, 2025 Amendment]**.
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Connect Rule 5(7) (NPS emoluments on re-employment include deducted pension element) with Rule 4A of Gratuity Amendment Rules, 2025 (no separate gratuity for re-employment)!
+
+---
+
 ## Module 11: All 8 Statutory Forms (Forms 1 to 4-E)
 
-### Card #118 — `Forms 1, 2, 3 & Rule 24(1) Table (Forms 4-A to 4-E)` · *[Sub-rule / Clause]*
+### Card #131 — `Forms 1, 2, 3 & Rule 24(1) Table (Forms 4-A to 4-E)` · *[Sub-rule / Clause]*
 
 **Q (Front):** Match ALL EIGHT statutory Forms (Form 1, Form 2, Form 3, Form 4-A, 4-B, 4-C, 4-D, 4-E) under the CCS (Implementation of NPS) Rules, 2021 with their exact Rule and Subject!
 
@@ -1810,7 +2024,7 @@ Concluding sentence of **Rule 23(2):** *'Where the Subscriber has submitted the 
 
 ---
 
-### Card #119 — `Form 1 & Form 2 Statutory Footnotes / Instructions` · *[Exam Trap]*
+### Card #132 — `Form 1 & Form 2 Statutory Footnotes / Instructions` · *[Exam Trap]*
 
 **Q (Front):** What are the FIVE granular statutory instructions printed on Form 1 and Form 2 (e.g., Is original Form 2 ever replaced? Which family members are listed? Are judicially separated spouses included?)?
 
@@ -1826,7 +2040,7 @@ Concluding sentence of **Rule 23(2):** *'Where the Subscriber has submitted the 
 
 ---
 
-### Card #120 — `Form 3 [See Rule 16(7)] — Exact Wording` · *[Sub-rule / Clause]*
+### Card #133 — `Form 3 [See Rule 16(7)] — Exact Wording` · *[Sub-rule / Clause]*
 
 **Q (Front):** What specific medical findings and causal-attributability check are certified inside Form 3 [Form of Medical Certificate under Rule 16(7)]?
 
@@ -1842,7 +2056,7 @@ In **Form 3** [Rule 16(7)], the Medical Board / Civil Surgeon certifies:
 
 ---
 
-### Card #121 — `Form 4-A, 4-B, 4-C, 4-D & 4-E Addressee & Routing` · *[Authority]*
+### Card #134 — `Form 4-A, 4-B, 4-C, 4-D & 4-E Addressee & Routing` · *[Authority]*
 
 **Q (Front):** In ALL FIVE withdrawal-forwarding covering letters (Forms 4-A, 4-B, 4-C, 4-D, and 4-E under Rule 24(1)), who signs the letter, to whom is it addressed, and through whom is it routed?
 
@@ -1856,9 +2070,51 @@ In **Form 3** [Rule 16(7)], the Medical Board / Civil Surgeon certifies:
 
 ---
 
+### Card #135 — `Form 4-A & Form 4-B [See Rule 24(1)] — Internal Statutory Clauses` · *[Sub-rule / Clause]*
+
+**Q (Front):** What exact alternative scenarios (`* Strike out if not applicable`) are printed inside the statutory body of Form 4-A and Form 4-B under Rule 24(1)?
+
+**A (Back):**
+
+**1. Inside `Form 4-A` (3 Asterisked Exit Paragraphs — ALL get Superannuation 60:40 Exit):**
+- *Option 1:* Due for retirement on **superannuation** on `[date]` [Rule 11];
+- *Option 2:* Notice for **voluntary retirement** accepted under **Rule 12** OR **FR 56(k)** OR **DoPT SVRS**;
+- *Option 3:* Order for retirement issued by competent authority under **FR 56(j)** OR **DoPT SVRS** [Rule 13].
+
+**2. Inside `Form 4-B` (Deemed Retirement on Absorption in AB/PSU OR Technical Resignation — 3 Scenarios):**
+- *Scenario A (NPS exists in new AB/PSU / Govt Dept):* Subscriber **shall continue with SAME PRAN** in new organisation and **shall NOT receive any benefit at the time of absorption** [1st Proviso to R. 15(1) / R. 14(2)];
+- *Scenario B (NPS does NOT exist in new AB/PSU & Subscriber opts to exit):* Process release of **superannuation-level terminal benefits** [R. 15(1) / 1st Proviso to R. 14(2)];
+- *Scenario C (NPS does NOT exist & Subscriber opts to continue PRAN):* Continue **same PRAN as a non-Government subscriber** [2nd Proviso to R. 15(1) / R. 14(2)].
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Many candidates forget that FR 56(k) is explicitly printed inside Form 4-A, and Technical Resignation is explicitly processed via Form 4-B alongside PSU/AB Absorption!
+
+---
+
+### Card #136 — `Form 4-C, Form 4-D & Form 4-E [See Rule 24(1)] — Internal Statutory Clauses` · *[Sub-rule / Clause]*
+
+**Q (Front):** Detail the exact alternative clauses printed inside the statutory text of Form 4-C, Form 4-D, and Form 4-E under Rule 24(1)!
+
+**A (Back):**
+
+**1. Inside `Form 4-C` (Penalty Exit vs Resignation):**
+- Covers **(i)** Penalty of **compulsory retirement / dismissal / removal** [Rule 18] OR **(ii)** **Resignation** accepted w.e.f. `[date]` [Rule 14(1)].
+- Explicitly instructs PAO either to release **pre-superannuation exit benefits** *(after **expiry of 90 days** in resignation cases, unless subscriber died within 90 days!)* OR record Subscriber's option to **continue same PRAN as a non-Government subscriber**.
+
+**2. Inside `Form 4-D` (Invalidation [R. 16] or Disablement [R. 17]):**
+- *Branch 1 (OPS/EOP Option or Default):* Close IPA → transfer **Govt contribution + returns** to **Government Account** → pay **remaining corpus (Employee share + returns) in LUMP SUM to Subscriber**.
+- *Branch 2 (NPS Option or Default):* Process **superannuation-level NPS exit** (or continuation/deferment option).
+
+**3. Inside `Form 4-E` (Death in Service [R. 20]):**
+- *Branch 1 (OPS/EOP Option or Default — NOT infructuous):* Close IPA → transfer **Govt share + returns** to **Govt Account** → pay **remaining corpus in LUMP SUM to PFRDA Nominee / Legal Heir(s)**.
+- *Branch 2 (NPS Option/Default OR OPS Option Infructuous under Rule 10(7)):* Process full **NPS death benefits** under PFRDA Regulations!
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Notice Form 4-E explicitly covers the Rule 10(7) 'infructuous OPS option' case under Branch 2 so legal heirs get 100% of the NPS corpus!
+
+---
+
 ## Module 12: Latest Official OMs, Amendments & Sister NPS Rules (2022–2026)
 
-### Card #122 — `DoPPW O.M. dated 28.04.2022 (Missing NPS Employees)` · *[2024–2026 Update]*
+### Card #137 — `DoPPW O.M. dated 28.04.2022 (Missing NPS Employees)` · *[2024–2026 Update]*
 
 **Q (Front):** How are benefits regulated if a Central Government employee covered under NPS goes MISSING during service (DoPPW O.M. dated 28.04.2022 & PFRDA Dec 2025 Amendment)?
 
@@ -1876,7 +2132,7 @@ In **Form 3** [Rule 16(7)], the Medical Board / Civil Surgeon certifies:
 
 ---
 
-### Card #123 — `DoPPW O.M. No. 57/06/2021-P&PW(B) dated 14.10.2024` · *[2024–2026 Update]*
+### Card #138 — `DoPPW O.M. No. 57/06/2021-P&PW(B) dated 14.10.2024` · *[2024–2026 Update]*
 
 **Q (Front):** What landmark retrospective relief did DoPPW O.M. dated 14.10.2024 grant for pre-31.03.2021 death/invalidation/disability NPS cases (originally settled under OM dated 05.05.2009), including interest rates and Major Heads?
 
@@ -1893,7 +2149,7 @@ In **Form 3** [Rule 16(7)], the Medical Board / Civil Surgeon certifies:
 
 ---
 
-### Card #124 — `DoPPW O.M. dt. 04.06.2024 & 14.10.2024 (NPS Oversight Mechanism)` · *[2024–2026 Update]*
+### Card #139 — `DoPPW O.M. dt. 04.06.2024 & 14.10.2024 (NPS Oversight Mechanism)` · *[2024–2026 Update]*
 
 **Q (Front):** What is the periodicity and mode of reporting under the NPS Oversight Mechanism mandated by DoPPW O.M.s dated 04.06.2024 and 14.10.2024?
 
@@ -1906,7 +2162,7 @@ In **Form 3** [Rule 16(7)], the Medical Board / Civil Surgeon certifies:
 
 ---
 
-### Card #125 — `DoPPW O.M. dt. 06.12.2023 & 07.02.2025 (Fixed Medical Allowance — FMA)` · *[2024–2026 Update]*
+### Card #140 — `DoPPW O.M. dt. 06.12.2023 & 07.02.2025 (Fixed Medical Allowance — FMA)` · *[2024–2026 Update]*
 
 **Q (Front):** Are Central Government employees retiring under NPS eligible for Fixed Medical Allowance (FMA), at what monthly rate, and what did DoPPW O.M. dated 07.02.2025 clarify regarding PRAN forms and Life Certificates?
 
@@ -1920,7 +2176,7 @@ In **Form 3** [Rule 16(7)], the Medical Board / Civil Surgeon certifies:
 
 ---
 
-### Card #126 — `PFRDA (Exits & Withdrawals under NPS) Amendment Regulations, 2025 (16.12.2025) & 2026 (13.07.2026)` · *[2024–2026 Update]*
+### Card #141 — `PFRDA (Exits & Withdrawals under NPS) Amendment Regulations, 2025 (16.12.2025) & 2026 (13.07.2026)` · *[2024–2026 Update]*
 
 **Q (Front):** Summarize the LATEST PFRDA Exit & Withdrawal thresholds (16.12.2025 & 13.07.2026 Amendments) applicable to Central Government Sector NPS Subscribers across all exit types!
 
@@ -1940,7 +2196,7 @@ In **Form 3** [Rule 16(7)], the Medical Board / Civil Surgeon certifies:
 
 ---
 
-### Card #127 — `PFRDA (Exits & Withdrawals under NPS) (Amendment) Regulations, 2026 [Notified 13.07.2026 / Gazette 14.07.2026]` · *[2024–2026 Update]*
+### Card #142 — `PFRDA (Exits & Withdrawals under NPS) (Amendment) Regulations, 2026 [Notified 13.07.2026 / Gazette 14.07.2026]` · *[2024–2026 Update]*
 
 **Q (Front):** What exact change was introduced by the PFRDA (Exits and Withdrawals under the National Pension System) (Amendment) Regulations, 2026 [notified 13th July, 2026] under Regulation 4A?
 
@@ -1956,7 +2212,7 @@ Notified on **13.07.2026** (published in Official Gazette **14.07.2026**), amend
 
 ---
 
-### Card #128 — `CCS (Payment of Gratuity under NPS) Rules, 2021 [G.S.R. 658(E)] + 2025 Amendment [G.S.R. 258(E)]` · *[2024–2026 Update]*
+### Card #143 — `CCS (Payment of Gratuity under NPS) Rules, 2021 [G.S.R. 658(E)] + 2025 Amendment [G.S.R. 258(E)]` · *[2024–2026 Update]*
 
 **Q (Front):** Summarize the key exam provisions of the sister 'CCS (Payment of Gratuity under NPS) Rules, 2021', the ₹25 Lakh hike, and the 'CCS (Payment of Gratuity under NPS) Amendment Rules, 2025' [G.S.R. 258(E) dt. 24.04.2025]!
 
@@ -1976,7 +2232,7 @@ Notified on **13.07.2026** (published in Official Gazette **14.07.2026**), amend
 
 ---
 
-### Card #129 — `CCS (Implementation of UPS under NPS) Rules, 2025 [G.S.R. 599(E) dt. 02.09.2025] & OMs dt. 18.06.2025` · *[2024–2026 Update]*
+### Card #144 — `CCS (Implementation of UPS under NPS) Rules, 2025 [G.S.R. 599(E) dt. 02.09.2025] & OMs dt. 18.06.2025` · *[2024–2026 Update]*
 
 **Q (Front):** Contrast CCS (Implementation of NPS) Rules, 2021 with CCS (Implementation of the Unified Pension Scheme under NPS) Rules, 2025 [G.S.R. 599(E) dt. 02.09.2025] for exam comparison!
 
@@ -1997,7 +2253,7 @@ Notified on **13.07.2026** (published in Official Gazette **14.07.2026**), amend
 
 ---
 
-### Card #130 — `PFRDA Partial Withdrawal & Lien Norms (Reg. 8 as amended 16.12.2025)` · *[2024–2026 Update]*
+### Card #145 — `PFRDA Partial Withdrawal & Lien Norms (Reg. 8 as amended 16.12.2025)` · *[2024–2026 Update]*
 
 **Q (Front):** What are the LATEST limits, frequency, mandatory year-gaps, loan/lien facility, and permitted vs removed purposes for PARTIAL WITHDRAWAL under PFRDA's 16.12.2025 Amendment Regulations?
 
@@ -2021,7 +2277,7 @@ Notified on **13.07.2026** (published in Official Gazette **14.07.2026**), amend
 
 ---
 
-### Card #131 — `Income-tax Act, 1961 & New Income-tax Act, 2025 (Effective 01.04.2026)` · *[Formula / Rate]*
+### Card #146 — `Income-tax Act, 1961 & New Income-tax Act, 2025 (Effective 01.04.2026)` · *[Formula / Rate]*
 
 **Q (Front):** Summarize ALL Income-tax deductions and exemptions for a Central Government NPS Subscriber under BOTH Old & New Regimes, including the NEW section numbers under the Income-tax Act, 2025 (effective 01.04.2026)!
 
@@ -2041,7 +2297,7 @@ Notified on **13.07.2026** (published in Official Gazette **14.07.2026**), amend
 
 ---
 
-### Card #132 — `DoPPW O.M. dated 26.12.2025 (Military Service + Civil NPS Gratuity Cap)` · *[2024–2026 Update]*
+### Card #147 — `DoPPW O.M. dated 26.12.2025 (Military Service + Civil NPS Gratuity Cap)` · *[2024–2026 Update]*
 
 **Q (Front):** What did DoPPW O.M. dated 26.12.2025 clarify regarding limitation on Gratuity under NPS for re-employed Ex-Servicemen who have already drawn separate gratuity for Military service?
 
@@ -2052,5 +2308,94 @@ Vide **DoPPW O.M. dated 26.12.2025** (read with **CCS Payment of Gratuity under 
 - Total gratuity (Military + Civil) **shall NOT exceed** the amount admissible had he rendered combined service and retired on the civil emoluments (and subject to the overall statutory monetary ceiling of **₹25 Lakh**).
 
 > **⚠️ Exam Trap / High-Yield Pointer:** Latest December 2025 DoPPW clarification — mirrors CCS (Pension) Rules dual-gratuity cap for re-employed military personnel under NPS!
+
+---
+
+### Card #148 — `CPAO O.M. No. CPAO/IT&Tech/NPS to OPS/22 Vol-V/2026-27/12612/124 dated 19.10.2026` · *[2024–2026 Update]*
+
+**Q (Front):** What is the LATEST step-by-step procedure under CPAO's Revised SOP dated 19.10.2026 for migrating legacy NPS-AR provisional pensioners (PPPO) to regular OPS PPOs on death/disability of Government servants?
+
+**A (Back):**
+
+Issued by **CPAO (Dept. of Expenditure)** on **19.10.2026** (with **CGA** approval, superseding earlier U.O. dt. **17.09.2025** & CPAO OM dt. **07.10.2025**):
+1. **CPAO Initiates with Scanned PPPO:** Instead of calling back physical booklets first (which caused delays), **CPAO directly sends a scanned copy of the Disburser Portion of PPPO** to the concerned **PAO** (retaining original till finalisation).
+2. **HOO → PAO:** **Head of Office** forwards the **Service Book** and supporting records to PAO.
+3. **New Regular PPO Generation:** **PAO** verifies records and generates a **new regular PPO** (bearing both the **old PPPO number** and **PRAN**) + Special Seal Authority (**SSA**).
+4. **Zero-Gap Bank Transition:** **CPAO** sends the new PPO & SSA to the bank's **CPPC**, specifying the exact commencement date and **simultaneously stopping PPPO payment from that exact date** (preventing both pension stoppage and double payment!).
+5. **Old PPPO Retrieval:** Bank branch (**PAHB**) hands over new PPO to pensioner, collects old PPPO booklet (or Lost Certificate) → CPPC → CPAO → PAO.
+
+> **⚠️ Exam Trap / High-Yield Pointer:** October 2026 current-affairs highlight for SAS / Accounts exams: CPAO's 19.10.2026 Revised SOP eliminated upfront physical PPPO recall by starting migration with a **scanned Disburser Portion of PPPO** from CPAO to PAO!
+
+---
+
+### Card #149 — `DoPPW O.M. No. 57/03/2022-P&PW(B)/8361(1) dated 29.10.2025 (UPS-to-NPS Switch & 4% Differential)` · *[2024–2026 Update]*
+
+**Q (Front):** Under DoPPW O.M. dated 29.10.2025 (and CCS UPS Rules, 2025), when can a UPS subscriber exercise the ONE-TIME switch back to CCS (NPS) Rules, 2021, when is it BARRED, and how is the 4% Government contribution gap settled?
+
+**A (Back):**
+
+- **One-Time, One-Way Switch Deadlines:** Exercisable anytime during service, **NOT LATER THAN**:
+  1. **(a)** **12 months prior** to the date of **superannuation**;
+  2. **(b)** **3 months prior** to the deemed date of **voluntary retirement**; OR
+  3. **(c)** **At the time of resignation OR non-penal compulsory retirement under FR 56(j)**!
+- **Absolute Bars on Switching:** Switch facility **CANNOT** be exercised:
+  - Where **departmental or judicial proceedings are pending OR contemplated** against the subscriber; OR
+  - In cases of **removal, dismissal, or compulsory retirement as a penalty**.
+- **4% Differential Govt Credit Formula:** Under UPS, only `10%` Govt share went to Individual Corpus (and `8.5%` to Pool), whereas NPS gives `14%` to Individual Corpus. On switching back to NPS, the **additional 4% Govt contribution (`14% − 10%`)** for the entire UPS period is **computed on the PFRDA Default Investment Pattern and credited to the Subscriber's NPS Account**, and future Govt contributions resume at **14%**!
+
+> **⚠️ Exam Trap / High-Yield Pointer:** SUPER HIGH-YIELD 2026 NUMERICAL/CONCEPTUAL QUESTION: How is the 10% -> 14% Govt contribution gap bridged when switching from UPS back to NPS? Additional **4%** for the past UPS period is computed at **Default Investment Pattern** returns and credited into the NPS PRAN!
+
+---
+
+### Card #150 — `DoPPW O.M. Series No. 57/03/2022-P&PW(B)/8361 dated 27.10.2026` · *[2024–2026 Update]*
+
+**Q (Front):** Summarize the FIVE strict-compliance clarifications issued by DoPPW in its October 27, 2026 O.M. batch (`No. 57/03/2022-P&PW(B)/8361`) harmonizing UPS & NPS establishment administration!
+
+**A (Back):**
+
+Issued on **27.10.2026** for strict compliance by all Ministries/Departments dealing with **UPS / NPS** matters:
+1. **Mandatory Probation Contributions (`Rule 6(6)`):** Establishments **cannot wait for probation confirmation** — 10% employee & matching employer deductions are mandatory throughout probation.
+2. **Unpaid Absence (`Rule 6(3)` & `7(1)`):** Zero subscriber contribution during unpaid leave/absence; employer notional contribution restricted strictly to the **3 statutory grounds** (medical ground, civil commotion, useful higher studies).
+3. **Delayed Deposit Protection (`Rule 8(1)`):** Where enrollment, salary deduction, or Govt credit is delayed for reasons **not attributable to the subscriber**, administration must restore/compensate delayed credit.
+4. **Deputation / Foreign Service Retirement (`Rule 25` equivalent):** Central-to-Central deputation processed by **Borrowing HOO**; State Govt deputation / Foreign Service processed by **Lending HOO / Cadre Authority**.
+5. **Pending Proceedings on Retirement (`8361(10)`):** Unconcluded departmental proceedings continue post-retirement as **deemed proceedings under Rule 5 of CCS (Payment of Gratuity under NPS) Rules, 2021**; on full exoneration, subscriber gets full notional assured payout; post-retirement arrears on death of subscriber & spouse go to **legal heir(s)**.
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Brand-new October 27, 2026 DoPPW series — notice how unconcluded vigilance proceedings at retirement hook directly into **Rule 5 of CCS (Payment of Gratuity under NPS) Rules, 2021**!
+
+---
+
+### Card #151 — `DoPPW Thematic O.M. Series (Oct 2022 & Oct 2024 — File No. 57/03/2022-P&PW(B)/8361)` · *[2024–2026 Update]*
+
+**Q (Front):** Has the text of CCS (Implementation of NPS) Rules, 2021 been amended by Gazette Amendment Rules since 30.03.2021, or operationalized through DoPPW Thematic OMs & PFRDA Amendment Regulations?
+
+**A (Back):**
+
+- **Principal Bare Act Status:** Up to November 2026, the **30 Rules and Forms 1 to 4-E** of `G.S.R. 227(E)` dated `30.03.2021` remain the **principal statutory text** (while sister separate rules were notified for **Gratuity [2021, amended 24.04.2025]**, **UPS [02.09.2025]**, **Railways [01.10.2025]**, and **All India Services [22.04.2026]**, and exit slabs/partial withdrawals were amended via **PFRDA Amendment Regulations [16.12.2025 & 13.07.2026]**).
+- **DoPPW Rule-Wise Strict-Implementation O.M. Series (`57/03/2022-P&PW(B)/8361`):**
+  - **Oct 2022 Batch:** `25.10.2022` (Rule 5 Emoluments), `26.10.2022` (Rule 10 Option), `27.10.2022` (Rules 18–19 Disciplinary Proceedings & Gratuity), `28.10.2022` (Rules 16–17 Invalidation/Disablement + Death Gratuity & Rule 20 Death).
+  - **Oct 2024 Batch (`8361(1)` to `(9)`):** `07.10.2024` (Rule 6 Employee Share, Rule 7 Govt Share, Rule 15 Absorption), `11.10.2024` (Rule 12 20-Yr VRS, Rule 14 Resignation, Rule 18 Dismissal/Removal), `14.10.2024` (Oversight Portal + Pre-2021 Refund OM), `25.10.2024` (`8361(8)` Autonomous Bodies Exclusion & `8361(9)` Rule 10 Form 1/2 Campaign).
+
+> **⚠️ Exam Trap / High-Yield Pointer:** If an exam asks 'Was CCS (Implementation of NPS) Rules, 2021 repealed by UPS Rules, 2025 or amended to forfeit NPS corpus on dismissal?' → **NO** on both counts!
+
+---
+
+### Card #152 — `Master 2026 Synthesis: OPS (2021) vs CCS NPS (2021) vs CCS UPS (2025) vs Railway (2025) & AIS NPS (2026)` · *[2024–2026 Update]*
+
+**Q (Front):** Give the ultimate 2026 Exam Master Matrix comparing OPS [CCS Pension Rules, 2021], CCS NPS [2021], CCS UPS [2025], and Railway [2025] / AIS NPS [2026] across 8 core exam parameters!
+
+**A (Back):**
+
+| Exam Parameter | **OPS [CCS Pension 2021]** | **CCS NPS [G.S.R. 227(E), 2021]** | **CCS UPS [G.S.R. 599(E), 2025]** | **Railway [2025] / AIS NPS [2026]** |
+|---|---|---|---|---|
+| **Employee : Govt Share** | `0%` (GPF separate) : Defined Benefit | **`10%` : `14%`** (rounded **next higher ₹**) | **`10%` : `10% + 8.5%`** (`18.5%` total) | **`10%` : `14%`** (rounded **next higher ₹**) |
+| **VRS Minimum Service** | **20 yrs** qualifying [R. 43] | **20 yrs** *regular* (EOL counts!) [R. 12] | **25 yrs** qualifying (payout at 60) | **20 yrs** (AIS NE cadres: **15 yrs**!) |
+| **Dismissal / Removal** | Pension & Gratuity **forfeited** | **NPS Corpus NOT forfeited** (`20:80` exit); Gratuity forfeited | **Assured Payout & Gratuity forfeited** (own NPS/corpus rules apply) | **NPS Corpus NOT forfeited** (`20:80` exit) |
+| **Pending Vigilance at 60** | Provisional pension; Gratuity withheld | **Full `60:40` NPS exit paid!** Only Gratuity withheld [R. 19] | Regulated via **Rule 5 Gratuity Rules** (`OM 27.10.2026`) | **Full `60:40` NPS exit paid** |
+| **Death / Disability Option** | Built-in Family / Invalid Pension | **Form 1** (`<15 yrs` default = OPS) [R. 10] | **Form 1** (`<15 yrs` default = OPS) [`OM 18.06.2025`] | **Form 1** (`<15 yrs` default = OPS/DCRB) |
+| **Small Corpus 100% Exit** | N/A | **≤ ₹8L** Normal/Death; **≤ ₹5L** Premature | Assured Min **₹10,000/m** (`≥10 yrs`) | **≤ ₹8L** Normal/Death; **≤ ₹5L** Premature |
+| **Gratuity Max (`01.01.24`)** | **₹25 Lakh** | **₹25 Lakh** (plus corpus) | **₹25 Lakh** **+ 1/10th 6-m lump sum** | **₹25 Lakh** |
+| **Power to Relax Concurrence** | **DoPPW** [R. 86] | **MoPPGP (DoPPW)** [R. 28] | **DoPPW / MoF** per rule | **Railway Board / DoPT** (AIS R. 30) |
+
+> **⚠️ Exam Trap / High-Yield Pointer:** Spot the AIS 2026 special exception in column 4: Under AIS (Implementation of NPS) Rules, 2026, officers borne on Assam-Meghalaya, Manipur-Tripura, Nagaland & Sikkim cadres can take VRS on completing **15 years** of service, and AIS Rule 30 relaxation requires **DoPT** concurrence!
 
 ---
