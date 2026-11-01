@@ -393,12 +393,12 @@
         </p>
       </div>
       <div class="header-actions">
-        <a class="btn-link" style="border-color: var(--emerald); color: var(--emerald); font-weight: 700;" href="https://github.com/khanashraf6742-boop/notebooklm-py/raw/arena/e013e10c-notebooklm-py/ccs_nps_flashcards/ccs_nps_rules_2021_flashcards_bundle.zip?download=true" target="_blank" rel="noopener">⬇ Complete .ZIP</a>
-        <a class="btn-link" style="border-color: var(--accent); color: var(--accent); font-weight: 600;" href="https://github.com/khanashraf6742-boop/notebooklm-py/raw/arena/e013e10c-notebooklm-py/ccs_nps_flashcards/ccs_nps_rules_exam_flashcards.pdf?download=true" target="_blank" rel="noopener">⬇ Exam .PDF</a>
-        <a class="btn-link" href="https://github.com/khanashraf6742-boop/notebooklm-py/raw/arena/e013e10c-notebooklm-py/ccs_nps_flashcards/ccs_nps_rules_interactive_studio.html?download=true" target="_blank" rel="noopener">⬇ Offline .HTML</a>
-        <a class="btn-link" href="https://github.com/khanashraf6742-boop/notebooklm-py/raw/arena/e013e10c-notebooklm-py/ccs_nps_flashcards/ccs_nps_rules_exam_flashcards.md?download=true" target="_blank" rel="noopener">⬇ Master .MD</a>
-        <a class="btn-link" href="https://github.com/khanashraf6742-boop/notebooklm-py/raw/arena/e013e10c-notebooklm-py/ccs_nps_flashcards/ccs_nps_rules_anki_deck.tsv?download=true" target="_blank" rel="noopener">⬇ Anki .TSV</a>
-        <a class="btn-link" href="https://github.com/khanashraf6742-boop/notebooklm-py/raw/arena/e013e10c-notebooklm-py/ccs_nps_flashcards/ccs_nps_rules_flashcards.json?download=true" target="_blank" rel="noopener">⬇ NLM .JSON</a>
+        <a id="dlZipLink" class="btn-link" style="border-color: var(--emerald); color: var(--emerald); font-weight: 700;" href="/download/ccs_nps_rules_2021_flashcards_bundle.zip" download="ccs_nps_rules_2021_flashcards_bundle.zip">⬇ Complete .ZIP</a>
+        <a id="dlPdfLink" class="btn-link" style="border-color: var(--accent); color: var(--accent); font-weight: 600;" href="/download/ccs_nps_rules_exam_flashcards.pdf" download="ccs_nps_rules_exam_flashcards.pdf">⬇ Exam .PDF</a>
+        <button id="dlHtmlBtn" type="button" title="Instant zero-network browser download">⬇ Offline .HTML</button>
+        <button id="dlMdBtn" type="button" title="Instant zero-network browser download">⬇ Master .MD</button>
+        <button id="dlTsvBtn" type="button" title="Instant zero-network browser download">⬇ Anki .TSV</button>
+        <button id="dlJsonBtn" type="button" title="Instant zero-network browser download">⬇ NLM .JSON</button>
         <button id="themeBtn" type="button" title="Toggle Dark/Light Mode">☀️ / 🌙</button>
       </div>
     </header>
@@ -967,6 +967,100 @@
         render();
       }
     });
+
+    // Instant zero-network client-side downloads (never 404, even completely offline)
+    function triggerBlobDownload(filename, mimeType, contentStr) {
+      const blob = new Blob([contentStr], { type: mimeType });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => {
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }, 250);
+    }
+
+    if (window.location.protocol === "file:") {
+      const zipEl = document.getElementById("dlZipLink");
+      const pdfEl = document.getElementById("dlPdfLink");
+      if (zipEl) zipEl.href = "https://codeload.github.com/khanashraf6742-boop/notebooklm-py/zip/refs/heads/arena/e013e10c-notebooklm-py";
+      if (pdfEl) pdfEl.href = "https://github.com/khanashraf6742-boop/notebooklm-py/blob/refs/heads/arena/e013e10c-notebooklm-py/ccs_nps_flashcards/ccs_nps_rules_exam_flashcards.pdf";
+    }
+
+    document.getElementById("dlHtmlBtn").onclick = () => {
+      triggerBlobDownload(
+        "ccs_nps_rules_interactive_studio.html",
+        "text/html;charset=utf-8",
+        "<!DOCTYPE html>\n" + document.documentElement.outerHTML
+      );
+    };
+
+    document.getElementById("dlMdBtn").onclick = () => {
+      const byMod = {};
+      ALL_CARDS.forEach(c => {
+        (byMod[c.module] = byMod[c.module] || []).push(c);
+      });
+      const lines = [
+        "# CCS (Implementation of National Pension System) Rules, 2021 & Latest Official Updates (Up to Nov 2026) — Exhaustive Exam-Oriented Flashcards",
+        "",
+        `**Total Verified Exam Flashcards:** \`${ALL_CARDS.length}\``,
+        "",
+        "---",
+        ""
+      ];
+      Object.keys(byMod).forEach(mod => {
+        lines.push(`## ${mod}`, "");
+        byMod[mod].forEach(c => {
+          const padId = String(c.id).padStart(3, "0");
+          lines.push(
+            `### Card #${padId} — \`${c.rule_ref}\` · *[${c.tag}]*`,
+            "",
+            `**Q (Front):** ${c.front}`,
+            "",
+            "**A (Back):**",
+            "",
+            c.back,
+            "",
+            `> **⚠️ Exam Trap / High-Yield Pointer:** ${c.exam_trap}`,
+            "",
+            "---",
+            ""
+          );
+        });
+      });
+      triggerBlobDownload("ccs_nps_rules_exam_flashcards.md", "text/markdown;charset=utf-8", lines.join("\n"));
+    };
+
+    document.getElementById("dlTsvBtn").onclick = () => {
+      const rows = ["#separator:tab", "#html:true", "#tags column:3"];
+      ALL_CARDS.forEach(c => {
+        const f = `<b>[${escapeHtml(c.rule_ref)}]</b><br>${escapeHtml(c.front)}`;
+        const b = `${escapeHtml(c.back).replace(/\n/g, "<br>")}<hr><b>⚠️ Exam Trap:</b> ${escapeHtml(c.exam_trap)}`;
+        const tagSlug = c.tag.toLowerCase().replace(/ \/ /g, "_").replace(/\s+/g, "_");
+        const modSlug = c.module.split(":")[0].toLowerCase().replace(/\s+/g, "_");
+        rows.push(`${f}\t${b}\tccs_nps_rules ${modSlug} ${tagSlug}`);
+      });
+      triggerBlobDownload("ccs_nps_rules_anki_deck.tsv", "text/tab-separated-values;charset=utf-8", rows.join("\n") + "\n");
+    };
+
+    document.getElementById("dlJsonBtn").onclick = () => {
+      const payload = {
+        title: "CCS (Implementation of National Pension System) Rules, 2021 & Latest Official Updates (Up to 2026) — Exhaustive Exam-Oriented Flashcards",
+        cards: ALL_CARDS.map(c => ({
+          front: `[${c.rule_ref} | ${c.tag}] ${c.front}`,
+          back: `${c.back}\n\n⚠️ EXAM TRAP / PROVISO ALERT: ${c.exam_trap}`,
+          id: c.id,
+          module: c.module,
+          rule_ref: c.rule_ref,
+          tag: c.tag,
+          exam_trap: c.exam_trap
+        }))
+      };
+      triggerBlobDownload("ccs_nps_rules_flashcards.json", "application/json;charset=utf-8", JSON.stringify(payload, null, 2));
+    };
 
     renderTags();
     render();
